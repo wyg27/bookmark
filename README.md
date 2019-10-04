@@ -3,6 +3,7 @@
 ## 综合
 
 * https://www.programming-idioms.org/ 以简明，多语言范例的方式介绍编程里的各种概念。
+* https://refactoring.guru/ 理解“代码重构”的意义。
 
 ## C 语言
 
