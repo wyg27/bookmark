@@ -15,6 +15,11 @@
 * 《关于MySQL线程池，这也许是目前最全面的实用帖》https://dbaplus.cn/news-11-1989-1.html
 * 《MySQL5.6 PERFORMANCE_SCHEMA 说明》https://www.cnblogs.com/zhoujinyi/p/5236705.html
 
+## Apache
+
+* 《加速PHP的ECHO》 http://www.laruence.com/2011/02/13/1870.html
+* Apache 调优 https://www.linode.com/docs/web-servers/apache-tips-and-tricks/tuning-your-apache-server/
+
 ## Git
 
 * 《Git 中级用户的25个提示》http://blog.fujiji.com/25-tips-for-intermediate-git-users/
