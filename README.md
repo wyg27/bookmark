@@ -10,6 +10,10 @@
 
 * 《学习C语言的教材》http://www.ruanyifeng.com/blog/2011/09/c_programming_language_textbooks.html
 
+## MySQL
+
+* 《关于MySQL线程池，这也许是目前最全面的实用帖》https://dbaplus.cn/news-11-1989-1.html
+
 ## Git
 
 * 《Git 中级用户的25个提示》http://blog.fujiji.com/25-tips-for-intermediate-git-users/
