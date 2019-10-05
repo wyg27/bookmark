@@ -26,6 +26,7 @@
 * 《linux下常用查看Apache状态语句》https://www.cnblogs.com/eoiioe/archive/2009/06/02/1494468.html
 * 《Linux中检查Apache服务器状态》https://www.howtoing.com/check-apache-httpd-status-and-uptime-in-linux
 * 《opcache参数配置优化详解》https://mhl.xyz/Php/opcache.html
+* 如何监控 Apache 的负载 https://www.tecmint.com/monitor-apache-web-server-load-and-page-statistics/
 
 ## Git
 
