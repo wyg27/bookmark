@@ -29,6 +29,10 @@
 * 《opcache参数配置优化详解》https://mhl.xyz/Php/opcache.html
 * 如何监控 Apache 的负载 https://www.tecmint.com/monitor-apache-web-server-load-and-page-statistics/
 
+# Linux
+
+* 《10分钟内加固你的 Linux》https://rudd-o.com/linux-and-free-software/hardening-a-linux-server-in-10-minutes
+
 ## Git
 
 * 《Git 中级用户的25个提示》http://blog.fujiji.com/25-tips-for-intermediate-git-users/
