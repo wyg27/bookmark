@@ -24,6 +24,7 @@
 * 《加速PHP的ECHO》 http://www.laruence.com/2011/02/13/1870.html
 * Apache 调优 https://www.linode.com/docs/web-servers/apache-tips-and-tricks/tuning-your-apache-server/
 * 《linux下常用查看Apache状态语句》https://www.cnblogs.com/eoiioe/archive/2009/06/02/1494468.html
+* 《Linux中检查Apache服务器状态》https://www.howtoing.com/check-apache-httpd-status-and-uptime-in-linux
 
 ## Git
 
