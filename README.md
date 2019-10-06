@@ -33,6 +33,10 @@
 
 * 《10分钟内加固你的 Linux》https://rudd-o.com/linux-and-free-software/hardening-a-linux-server-in-10-minutes
 
+# Shell
+
+* https://www.linuxtechi.com/category/shell-scripting/
+
 ## Git
 
 * 《Git 中级用户的25个提示》http://blog.fujiji.com/25-tips-for-intermediate-git-users/
