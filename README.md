@@ -36,6 +36,7 @@
 # Shell
 
 * https://www.linuxtechi.com/category/shell-scripting/
+* https://www.howtoforge.com/linux-commands/
 
 ## Git
 
