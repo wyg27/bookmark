@@ -37,6 +37,10 @@
 
 * 《Git 中级用户的25个提示》http://blog.fujiji.com/25-tips-for-intermediate-git-users/
 
+## 正则表达式
+
+* https://www.regular-expressions.info/quickstart.html
+
 ## 环境配置中遇到过的错误
 
 * "dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.63.dylib", https://stackoverflow.com/questions/53828891/dyld-library-not-loaded-usr-local-opt-icu4c-lib-libicui18n-62-dylib-error-run
