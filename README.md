@@ -38,6 +38,7 @@
 * https://www.linuxtechi.com/category/shell-scripting/
 * https://www.howtoforge.com/linux-commands/
 * https://bash.cyberciti.biz/guide/Main_Page
+* 苹果提供的教程 https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html
 
 ## Git
 
