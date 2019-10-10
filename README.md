@@ -46,6 +46,7 @@
 * https://bash.cyberciti.biz/guide/Main_Page
 * 苹果提供的教程 https://developer.apple.com/library/archive/documentation/OpenSource/Conceptual/ShellScripting/Introduction/Introduction.html
 * 网友总结的 shell 脚本库 https://stackoverflow.com/questions/11369522/bash-utility-script-library
+* 获取文件的“修改”时间 https://stackoverflow.com/questions/552724/how-do-i-check-in-bash-whether-a-file-was-created-more-than-x-time-ago
 
 ## Git
 
