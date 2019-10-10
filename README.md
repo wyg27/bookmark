@@ -39,6 +39,10 @@
 * 《Mac OS 下 crontab 的位置》https://superuser.com/questions/1031187/where-is-my-crontab-file-on-os-x
 * 便捷生成 crontab 时间格式 https://crontab.guru/every-5-minutes
 
+## 常用操作命令
+
+* 压缩 https://www.tecmint.com/18-tar-command-examples-in-linux/
+
 # Shell
 
 * https://www.linuxtechi.com/category/shell-scripting/
