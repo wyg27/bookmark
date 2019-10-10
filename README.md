@@ -32,6 +32,7 @@
 # Linux
 
 * 《10分钟内加固你的 Linux》https://rudd-o.com/linux-and-free-software/hardening-a-linux-server-in-10-minutes
+* 《OS X 添加定时任务》http://codingpub.github.io/2016/10/27/OS-X-%E6%B7%BB%E5%8A%A0%E5%AE%9A%E6%97%B6%E4%BB%BB%E5%8A%A1/
 
 # Shell
 
