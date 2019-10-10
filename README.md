@@ -52,6 +52,7 @@
 * 网友总结的 shell 脚本库 https://stackoverflow.com/questions/11369522/bash-utility-script-library
 * 获取文件的“修改”时间 https://stackoverflow.com/questions/552724/how-do-i-check-in-bash-whether-a-file-was-created-more-than-x-time-ago
 * “块”注释 https://www.google.com/search?q=shell+script+comment+multiple+lines&oq=shell+script+comment&aqs=chrome.2.69i57j0l5.10700j0j7&sourceid=chrome&ie=UTF-8
+* 获取文件名 https://stackoverflow.com/questions/2536046/extract-directory-path-and-filename
 
 ## Git
 
