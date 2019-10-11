@@ -53,6 +53,7 @@
 * 获取文件的“修改”时间 https://stackoverflow.com/questions/552724/how-do-i-check-in-bash-whether-a-file-was-created-more-than-x-time-ago
 * “块”注释 https://www.google.com/search?q=shell+script+comment+multiple+lines&oq=shell+script+comment&aqs=chrome.2.69i57j0l5.10700j0j7&sourceid=chrome&ie=UTF-8
 * 获取文件名 https://stackoverflow.com/questions/2536046/extract-directory-path-and-filename
+* 替换文件内容 https://www.cyberciti.biz/faq/how-to-use-sed-to-find-and-replace-text-in-files-in-linux-unix-shell/
 
 ## Git
 
