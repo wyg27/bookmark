@@ -45,6 +45,7 @@
 
 # Shell
 
+* 《Advanced Bash-Scripting Guide》https://linux.die.net/abs-guide/
 * https://www.linuxtechi.com/category/shell-scripting/
 * https://www.howtoforge.com/linux-commands/
 * https://bash.cyberciti.biz/guide/Main_Page
