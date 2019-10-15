@@ -60,6 +60,10 @@
 
 * 《Git 中级用户的25个提示》http://blog.fujiji.com/25-tips-for-intermediate-git-users/
 
+## Go 语言
+
+* 兼容各种 OS 的编译 https://www.digitalocean.com/community/tutorials/building-go-applications-for-different-operating-systems-and-architectures
+
 ## 正则表达式
 
 * https://www.regular-expressions.info/quickstart.html
