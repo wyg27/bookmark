@@ -72,6 +72,10 @@
 
 * “傻瓜化”配置 https://sourabhbajaj.com/mac-setup/Vim/README.html
 
+## Tor
+
+* 如何创建一个 Tor .onion 网站 http://labazhou.net/2015/03/how-to-create-a-tor-onion-site/
+
 ## 关注中
 
 * 前端框架 https://svelte.dev/
