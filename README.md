@@ -79,6 +79,12 @@
 ## 关注中
 
 * 前端框架 https://svelte.dev/
+* Mockery PHP 下的“伪对象” https://code.tutsplus.com/tutorials/mockery-a-better-way--net-28097
+* PIMPLE PHP 下的容器类 https://pimple.symfony.com/
+
+## 好文
+
+* 《如何编写可测试和可维护的php代码》https://juejin.im/entry/59c463d75188257e8b36b83a
 
 ## 环境配置中遇到过的错误
 
