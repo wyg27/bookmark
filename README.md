@@ -29,6 +29,10 @@
 * 《opcache参数配置优化详解》https://mhl.xyz/Php/opcache.html
 * 如何监控 Apache 的负载 https://www.tecmint.com/monitor-apache-web-server-load-and-page-statistics/
 
+## Redis
+
+* 《(译)Redis响应延迟问题排查》https://nullcc.github.io/2018/02/15/(%E8%AF%91)Redis%E5%93%8D%E5%BA%94%E5%BB%B6%E8%BF%9F%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5/
+
 # Linux
 
 * 《10分钟内加固你的 Linux》https://rudd-o.com/linux-and-free-software/hardening-a-linux-server-in-10-minutes
