@@ -33,6 +33,7 @@
 
 * 《(译)Redis响应延迟问题排查》https://nullcc.github.io/2018/02/15/(%E8%AF%91)Redis%E5%93%8D%E5%BA%94%E5%BB%B6%E8%BF%9F%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5/
 * 一个比较有名的redis指标可视化的监控工具，采用ruby开发，基于redis的info命令来统计，不影响redis性能 https://github.com/junegunn/redis-stat
+* 《redis客户端连接，最大连接数查询与设置》https://www.cnblogs.com/zt007/p/9510795.html
 
 # Linux
 
