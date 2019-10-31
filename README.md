@@ -34,6 +34,9 @@
 * 《(译)Redis响应延迟问题排查》https://nullcc.github.io/2018/02/15/(%E8%AF%91)Redis%E5%93%8D%E5%BA%94%E5%BB%B6%E8%BF%9F%E9%97%AE%E9%A2%98%E6%8E%92%E6%9F%A5/
 * 一个比较有名的redis指标可视化的监控工具，采用ruby开发，基于redis的info命令来统计，不影响redis性能 https://github.com/junegunn/redis-stat
 * 《redis客户端连接，最大连接数查询与设置》https://www.cnblogs.com/zt007/p/9510795.html
+* 《Redis性能调优——Pipeline、主从复制、Lua脚本等》https://leibnizhu.gitlab.io/2016/11/26/Redis%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98/index.html
+* 《压力测试redis redis-benchmark 优化实践》https://juejin.im/post/5c1d9162518825192059865b
+* 《redis压力测试》https://segmentfault.com/a/1190000015571891
 
 # Linux
 
@@ -65,6 +68,7 @@
 ## Git
 
 * 《Git 中级用户的25个提示》http://blog.fujiji.com/25-tips-for-intermediate-git-users/
+* 《无需分支基于主干的开发是团队健康的重要标志》https://www.infoq.cn/article/tFwoy4gko3vJqp5oYYEO
 
 ## Go 语言
 
