@@ -37,6 +37,7 @@
 * 《Redis性能调优——Pipeline、主从复制、Lua脚本等》https://leibnizhu.gitlab.io/2016/11/26/Redis%E6%80%A7%E8%83%BD%E8%B0%83%E4%BC%98/index.html
 * 《压力测试redis redis-benchmark 优化实践》https://juejin.im/post/5c1d9162518825192059865b
 * 《redis压力测试》https://segmentfault.com/a/1190000015571891
+* 《为什么Redis指定配置文件启动不了》https://developer.aliyun.com/ask/129617
 
 # Linux
 
