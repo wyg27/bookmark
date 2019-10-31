@@ -86,6 +86,10 @@
 
 * 如何创建一个 Tor .onion 网站 http://labazhou.net/2015/03/how-to-create-a-tor-onion-site/
 
+## Supervisor
+
+* 《Supervisor Managing Redis Process Methodology Tutorial》https://developpaper.com/supervisor-managing-redis-process-methodology-tutorial/
+
 ## 关注中
 
 * 前端框架 https://svelte.dev/
