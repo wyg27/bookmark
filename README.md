@@ -103,4 +103,4 @@
 
 ## 环境配置中遇到过的错误
 
-* "dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.63.dylib", https://stackoverflow.com/questions/53828891/dyld-library-not-loaded-usr-local-opt-icu4c-lib-libicui18n-62-dylib-error-run
+* "dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.63.dylib", 《Mac下使用Brew安装node出错》https://blog.csdn.net/s_521_h/article/details/77017152
