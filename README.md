@@ -96,6 +96,7 @@
 * 前端框架 https://svelte.dev/
 * Mockery PHP 下的“伪对象” https://code.tutsplus.com/tutorials/mockery-a-better-way--net-28097
     - 《Mocking Laravel Eloquent models - how to set a public property with Mockery》https://www.oipapio.com/question-381560
+    - 《Laravel 4 Controller Testing》https://medium.com/laravel-4/laravel-4-controller-testing-48414f4782d0
 * PIMPLE PHP 下的容器类 https://pimple.symfony.com/
 
 ## 好文
