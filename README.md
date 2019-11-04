@@ -40,6 +40,7 @@
 * 《为什么Redis指定配置文件启动不了》https://developer.aliyun.com/ask/129617
 * 《redis 慢查询日志》https://blog.csdn.net/jia281460530/article/details/51960025
 * 《Redis批量操作详解及性能分析》https://www.jianshu.com/p/75137d23ae4a
+* 《✨Redis的KEYS命令引起RDS数据库雪崩》https://blog.csdn.net/Fundebug/article/details/82796620
 
 # Linux
 
