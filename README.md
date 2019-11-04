@@ -43,6 +43,7 @@
 * 《Redis批量操作详解及性能分析》https://www.jianshu.com/p/75137d23ae4a
 * 《✨Redis的KEYS命令引起RDS数据库雪崩》https://blog.csdn.net/Fundebug/article/details/82796620
 * 《redis的hGetAll函数的性能问题》https://www.jb51.net/article/80176.htm
+* Mac OS 开源 GUI https://github.com/qishibo/AnotherRedisDesktopManager/
 
 # Linux
 
