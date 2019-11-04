@@ -104,6 +104,7 @@
     - 《Laravel 4 Controller Testing》https://medium.com/laravel-4/laravel-4-controller-testing-48414f4782d0
     - 《Class 'Eloquent' not found when using Mockery::mock('Eloquent', 'Post')》https://github.com/JeffreyWay/Laravel-Testing-Decoded/issues/106
 * PIMPLE PHP 下的容器类 https://pimple.symfony.com/
+* 《互联网上的免费书籍》https://github.com/ruanyf/free-books
 
 ## 好文
 
