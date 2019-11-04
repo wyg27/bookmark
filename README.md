@@ -18,6 +18,7 @@
 
 * 《关于MySQL线程池，这也许是目前最全面的实用帖》https://dbaplus.cn/news-11-1989-1.html
 * 《MySQL5.6 PERFORMANCE_SCHEMA 说明》https://www.cnblogs.com/zhoujinyi/p/5236705.html
+* 《认识COUNT》https://blog.csdn.net/hollis_chuang/article/details/102657937
 
 ## Apache
 
