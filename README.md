@@ -105,6 +105,8 @@
     - 《Class 'Eloquent' not found when using Mockery::mock('Eloquent', 'Post')》https://github.com/JeffreyWay/Laravel-Testing-Decoded/issues/106
 * PIMPLE PHP 下的容器类 https://pimple.symfony.com/
 * 《互联网上的免费书籍》https://github.com/ruanyf/free-books
+* 算法学习 https://leetcode.com/
+* 关注算法学习的 git https://github.com/azl397985856/leetcode
 
 ## 好文
 
