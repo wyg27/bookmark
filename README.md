@@ -113,6 +113,7 @@
 
 * 《如何编写可测试和可维护的php代码》https://juejin.im/entry/59c463d75188257e8b36b83a
 * 《关于计算机科学的50个误解》http://www.ruanyifeng.com/blog/2019/11/50-cs-falsehoods.html
+* 《php性能优化》https://www.jianshu.com/p/d29f7222e7e6
 
 ## 环境配置中遇到过的错误
 
