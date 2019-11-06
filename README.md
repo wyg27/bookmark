@@ -10,6 +10,10 @@
 
 * 《学习C语言的教材》http://www.ruanyifeng.com/blog/2011/09/c_programming_language_textbooks.html
 
+## JavaScript
+
+* https://javascript.info/
+
 ## PHP
 
 * 《The 10 Most Common Mistakes PHP Developers Make》https://www.toptal.com/php/10-most-common-mistakes-php-programmers-make
