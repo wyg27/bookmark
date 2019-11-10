@@ -9,3 +9,4 @@
 ## AWS API Gateway
 
 * 较为详细介绍了参数的设定 https://medium.com/devtechblogs/https-medium-com-lior-k-sh-controlling-aws-api-gateway-request-parameters-lambda-function-49b08f96ccd9
+* 配置 API Gateway 响应 form 表单 https://blog.summercat.com/using-aws-lambda-and-api-gateway-as-html-form-endpoint.html
