@@ -120,6 +120,7 @@
 * 《关于计算机科学的50个误解》http://www.ruanyifeng.com/blog/2019/11/50-cs-falsehoods.html
 * 《php性能优化》https://www.jianshu.com/p/d29f7222e7e6
 * 《怎样快速学习一门编程语言？》https://www.infoq.cn/article/jpZ4B04fjbpgvV3VszGg
+* 《不要再叫自己“程序员”了》https://www.infoq.cn/article/KR5CM8JgDrRXfDh7f5Ca （与编程无关，只是讲述一种观念）
 
 ## 环境配置中遇到过的错误
 
