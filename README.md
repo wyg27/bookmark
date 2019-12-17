@@ -97,6 +97,7 @@
 ## Tor
 
 * 如何创建一个 Tor .onion 网站 http://labazhou.net/2015/03/how-to-create-a-tor-onion-site/
+* How to make a .onion site https://nordvpn.com/zh/blog/how-to-register-onion-domain/
 
 ## Supervisor
 
