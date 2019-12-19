@@ -118,6 +118,7 @@
 * 《互联网上的免费书籍》https://github.com/ruanyf/free-books
 * 算法学习 https://leetcode.com/
 * 关注算法学习的 git https://github.com/azl397985856/leetcode
+* 《101 OPEN-SOURCE APPS TO MAKE YOUR BUSINESS BETTER IN SECONDS》https://digital.com/blog/open-source-business/
 
 ## 好文
 
