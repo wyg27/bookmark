@@ -25,6 +25,11 @@
 * 《MySQL5.6 PERFORMANCE_SCHEMA 说明》https://www.cnblogs.com/zhoujinyi/p/5236705.html
 * 《认识COUNT》https://blog.csdn.net/hollis_chuang/article/details/102657937
 
+## Clojure
+
+* https://clojure.org/
+* https://leiningen.org/
+
 ## Apache
 
 * 《加速PHP的ECHO》 http://www.laruence.com/2011/02/13/1870.html
