@@ -25,6 +25,11 @@
 * 《MySQL5.6 PERFORMANCE_SCHEMA 说明》https://www.cnblogs.com/zhoujinyi/p/5236705.html
 * 《认识COUNT》https://blog.csdn.net/hollis_chuang/article/details/102657937
 
+## Netlift
+
+* Function 代码范例 https://github.com/DavidWells/netlify-functions-workshop
+* Function 官方教程 https://functions.netlify.com/tutorials
+
 ## Clojure
 
 * https://clojure.org/
