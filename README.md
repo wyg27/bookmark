@@ -94,6 +94,7 @@
 * 《Git 中级用户的25个提示》http://blog.fujiji.com/25-tips-for-intermediate-git-users/
 * 《无需分支基于主干的开发是团队健康的重要标志》https://www.infoq.cn/article/tFwoy4gko3vJqp5oYYEO
 * 《如何撤销 Git 操作？》http://www.ruanyifeng.com/blog/2019/12/git-undo.html
+* 《git撤销已经push到远端的commit》https://blog.csdn.net/xs20691718/article/details/51901161
 
 ## Go 语言
 
