@@ -93,6 +93,7 @@
 
 * 《Git 中级用户的25个提示》http://blog.fujiji.com/25-tips-for-intermediate-git-users/
 * 《无需分支基于主干的开发是团队健康的重要标志》https://www.infoq.cn/article/tFwoy4gko3vJqp5oYYEO
+* 《如何撤销 Git 操作？》http://www.ruanyifeng.com/blog/2019/12/git-undo.html
 
 ## Go 语言
 
@@ -139,6 +140,7 @@
 * 《php性能优化》https://www.jianshu.com/p/d29f7222e7e6
 * 《怎样快速学习一门编程语言？》https://www.infoq.cn/article/jpZ4B04fjbpgvV3VszGg
 * 《不要再叫自己“程序员”了》https://www.infoq.cn/article/KR5CM8JgDrRXfDh7f5Ca （与编程无关，只是讲述一种观念）
+* 《如何写一份有效的技术简历？》http://www.ruanyifeng.com/blog/2020/01/technical-resume.html
 
 ## 环境配置中遇到过的错误
 
