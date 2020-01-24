@@ -143,6 +143,7 @@
 * 《怎样快速学习一门编程语言？》https://www.infoq.cn/article/jpZ4B04fjbpgvV3VszGg
 * 《不要再叫自己“程序员”了》https://www.infoq.cn/article/KR5CM8JgDrRXfDh7f5Ca （与编程无关，只是讲述一种观念）
 * 《如何写一份有效的技术简历？》http://www.ruanyifeng.com/blog/2020/01/technical-resume.html
+* 《My guiding principles after 20 years of programming》https://medium.com/@alexewerlof/my-guiding-principles-after-20-years-of-programming-a087dc55596c
 
 ## 环境配置中遇到过的错误
 
