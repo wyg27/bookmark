@@ -1,1 +1,1 @@
-* Unix 时间戳转换 https://rimzy.net/tools/php_timestamp_converter.php
+* Unix 时间戳转换（可选城市，不用自己进行 UTC 转换） https://rimzy.net/tools/php_timestamp_converter.php
