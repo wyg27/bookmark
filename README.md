@@ -121,6 +121,11 @@
 
 * 《My Simple Approach to using Docker and PHP》https://bitpress.io/simple-approach-using-docker-with-php/
 
+## 函数式编程
+
+* 《Functional Programming in PHP》https://code.tutsplus.com/tutorials/functional-programming-in-php--net-35043
+* 《Functional PHP: A First Approach》https://dzone.com/articles/functional-php-a-first-approach
+
 ## 关注中
 
 * 前端框架 https://svelte.dev/
