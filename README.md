@@ -126,6 +126,7 @@
 * 《Functional Programming in PHP》https://code.tutsplus.com/tutorials/functional-programming-in-php--net-35043
 * 《Functional PHP: A First Approach》https://dzone.com/articles/functional-php-a-first-approach
 * 《Thinking Functionally in PHP?》https://leanpub.com/functional-php/read
+* 《An Introduction to Functional Reactive Programming》https://blog.danlew.net/2017/07/27/an-introduction-to-functional-reactive-programming/
 
 ## 关注中
 
