@@ -18,6 +18,7 @@
 ## PHP
 
 * 《The 10 Most Common Mistakes PHP Developers Make》https://www.toptal.com/php/10-most-common-mistakes-php-programmers-make
+* 《PHP The Right Way》https://phptherightway.com/
 
 ## MySQL
 
