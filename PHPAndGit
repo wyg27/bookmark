@@ -1,0 +1,5 @@
+通过 PHP 操作 git，参考：
+
+* 《Deploy to Production Server with Git using PHP》该文章中提及了通过 git 部署时的一系列操作 https://medium.com/riow/deploy-to-production-server-with-git-using-php-ab69b13f78ad
+* https://packagist.org/packages/czproject/git-php
+* https://github.com/teqneers/PHP-Stream-Wrapper-for-Git/blob/master/README.md
