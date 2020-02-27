@@ -4,3 +4,4 @@
 * 《How Do I Learn Some Functional Programming?》文章里推荐了几本书 https://medium.com/@mr_mig_by/how-do-i-learn-some-functional-programming-3b28875a0bc3
 * 《Functional Programming Patterns: A Cookbook》一些 JS 实现的例子 https://medium.com/free-code-camp/functional-programming-patterns-cookbook-3a0dfe2d7e0a
 * 《mostly-adequate-guide》开源电子书 https://github.com/MostlyAdequate/mostly-adequate-guide/blob/master/README.md
+* 《Functor, Applicative, and Why》https://medium.com/axiomzenteam/functor-applicative-and-why-8a08f1048d3d
