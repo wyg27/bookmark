@@ -8,3 +8,4 @@
 * 《Keep it Simple with the Strategy Design Pattern》https://blog.bitsrc.io/keep-it-simple-with-the-strategy-design-pattern-c36a14c985e9
 * 《Writing Flexible Code with the Single Responsibility Principle》https://medium.com/@severinperez/writing-flexible-code-with-the-single-responsibility-principle-b71c4f3f883f
 * 《10 Object-Oriented (OOP) Design Principles Java Programmers Should Know》https://javarevisited.blogspot.com/2018/07/10-object-oriented-design-principles.html
+* 《用Smalltalk回到未来》https://smalltalk8in8china.wordpress.com/2018/06/05/%E7%94%A8smalltalk%E5%9B%9E%E5%88%B0%E6%9C%AA%E6%9D%A5/
