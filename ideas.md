@@ -9,3 +9,7 @@ https://minecraft-zh.gamepedia.com/Minecraft_Wiki
 ----
 
 https://learnxinyminutes.com/
+
+----
+
+* https://apps.apple.com/ca/app/manual-for-the-united-states-of-america/id402493560?mt=12
