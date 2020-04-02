@@ -155,6 +155,7 @@
 * 《3 Terminal Commands to Increase Your Productivity》https://medium.com/better-programming/3-terminal-commands-to-increase-your-productivity-9dbab9f1a015
 * 《Keep your source code SIMPLE》https://medium.com/@kevingoslar/keep-your-source-code-simple-d5873cb854dc
 * 《The Rise and Fall of Object Oriented Programming》https://medium.com/machine-words/the-rise-and-fall-of-object-oriented-programming-d67078f970e2
+* 圣杯与银弹 · 没用的设计模式 https://draveness.me/holy-grail-design-pattern/
 
 ## 环境配置中遇到过的错误
 
