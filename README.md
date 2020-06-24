@@ -142,6 +142,7 @@
 * 关注算法学习的 git https://github.com/azl397985856/leetcode
 * 《101 OPEN-SOURCE APPS TO MAKE YOUR BUSINESS BETTER IN SECONDS》https://digital.com/blog/open-source-business/
 * https://zapier.com/apps
+* turbolinks 来自 RubyRails 的 HTML 解决方案 https://github.com/turbolinks/turbolinks#working-with-script-elements
 
 ## 好文
 
