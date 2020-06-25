@@ -11,3 +11,4 @@
 * 《用Smalltalk回到未来》https://smalltalk8in8china.wordpress.com/2018/06/05/%E7%94%A8smalltalk%E5%9B%9E%E5%88%B0%E6%9C%AA%E6%9D%A5/
 * 《Is Object-Oriented Programming an Overrated Garbage?》https://medium.com/better-programming/is-object-oriented-programming-garbage-66c4f41adcaa
 * https://sourcemaking.com/ 关于设计模式的教程 & 电子书贩卖
+* 《The S.O.L.I.D Principles in Pictures》图解 SOLID 原则 https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898
