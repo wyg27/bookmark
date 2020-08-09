@@ -5,3 +5,4 @@
 * PPT 《Your code sucks, let's fix it》https://www.slideshare.net/rdohms/your-code-sucks-lets-fix-it-15471808
 * 《Build seven good object-oriented habits in PHP》https://developer.ibm.com/technologies/php/articles/os-php-7oohabits/
 * “Google 出品的技术文档写作指导” https://developers.google.com/tech-writing/overview
+* 《The Must-Know Clean Code Principles》https://medium.com/swlh/the-must-know-clean-code-principles-1371a14a2e75
