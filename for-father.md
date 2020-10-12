@@ -1,3 +1,0 @@
-## 拼音输入
-
-[点击这里](https://www.google.com/intl/zh-CN/inputtools/try/)
