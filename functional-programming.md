@@ -8,3 +8,4 @@
 * 《Advent of Haskell》https://medium.com/@mvaldesdeleon/advent-of-haskell-950d6408a729
 * 《Using functional programming patterns to make easier to understand code》https://medium.com/@Corvidaee/using-functional-programming-patterns-to-make-easier-to-understand-code-bff55b054acc
 * 《简明 JavaScript 函数式编程——入门篇》https://juejin.im/post/6844903936378273799
+* 《掌握 JavaScript 面试：什么是函数式编程》https://juejin.im/post/6844904130796847111
