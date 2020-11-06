@@ -7,3 +7,4 @@
 * 《Functor, Applicative, and Why》https://medium.com/axiomzenteam/functor-applicative-and-why-8a08f1048d3d
 * 《Advent of Haskell》https://medium.com/@mvaldesdeleon/advent-of-haskell-950d6408a729
 * 《Using functional programming patterns to make easier to understand code》https://medium.com/@Corvidaee/using-functional-programming-patterns-to-make-easier-to-understand-code-bff55b054acc
+* 《简明 JavaScript 函数式编程——入门篇》https://juejin.im/post/6844903936378273799
