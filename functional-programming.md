@@ -9,3 +9,4 @@
 * 《Using functional programming patterns to make easier to understand code》https://medium.com/@Corvidaee/using-functional-programming-patterns-to-make-easier-to-understand-code-bff55b054acc
 * 《简明 JavaScript 函数式编程——入门篇》https://juejin.im/post/6844903936378273799
 * 《掌握 JavaScript 面试：什么是函数式编程》https://juejin.im/post/6844904130796847111
+* 《Functional PHP: A First Approach》https://apiumhub.com/tech-blog-barcelona/functional-php/
