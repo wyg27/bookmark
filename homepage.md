@@ -14,6 +14,10 @@ SnapDrop https://snapdrop.net
 
 图片转换为线稿 https://tech-lagoon.com/imagechef/zhcn/image-to-edge.html
 
+# 英文例句
+
+* https://sentencedict.com/because.html
+
 # Reading List
 
 * 《设计数据密集型应用 - 中文翻译》http://ddia.vonng.com/#/
