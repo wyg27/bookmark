@@ -13,3 +13,4 @@ SnapDrop https://snapdrop.net
 # Reading List
 
 * 《设计数据密集型应用 - 中文翻译》http://ddia.vonng.com/#/
+* 《Thinking Functionally in PHP》电子书，需购买 https://leanpub.com/thinking-functionally-in-php
