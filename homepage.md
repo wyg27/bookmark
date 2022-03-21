@@ -1,3 +1,7 @@
+## 在线围棋
+
+https://www.cosumi.net/en/
+
 ## 在线视频
 
 泥巴影院 https://www.nbys1.tv/
