@@ -14,11 +14,15 @@ SnapDrop https://snapdrop.net
 
 图片转换为线稿 https://tech-lagoon.com/imagechef/zhcn/image-to-edge.html
 
-# 英文例句
+## Cheat Sheet
+
+* VIM https://vim.rtorr.com/lang/zh_cn
+
+## 英文例句
 
 * https://sentencedict.com/because.html
 
-# Reading List
+## Reading List
 
 * 《设计数据密集型应用 - 中文翻译》http://ddia.vonng.com/#/
 * 《Thinking Functionally in PHP》电子书，需购买 https://leanpub.com/thinking-functionally-in-php
