@@ -27,3 +27,9 @@ SnapDrop https://snapdrop.net
 * 《设计数据密集型应用 - 中文翻译》http://ddia.vonng.com/#/
 * 《Thinking Functionally in PHP》电子书，需购买 https://leanpub.com/thinking-functionally-in-php
 * 《重构 —— 改善现有代码设计》只有书名
+
+
+## 散碎的 Shell 脚本教程
+
+* Shell脚本中的分号使用 https://www.cnblogs.com/EasonJim/p/8315896.html
+* Shell字符串截取 http://c.biancheng.net/view/1120.html
