@@ -33,3 +33,4 @@ SnapDrop https://snapdrop.net
 
 * Shell脚本中的分号使用 https://www.cnblogs.com/EasonJim/p/8315896.html
 * Shell字符串截取 http://c.biancheng.net/view/1120.html
+* 后台运行 `nohup ./foobar &`
