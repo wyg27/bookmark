@@ -24,6 +24,7 @@ SnapDrop https://snapdrop.net
 
 ## Reading List
 
+* 《如何少写PHP "烂"代码》https://juejin.cn/post/6844903639991975949
 * 《设计数据密集型应用 - 中文翻译》http://ddia.vonng.com/#/
 * 《Thinking Functionally in PHP》电子书，需购买 https://leanpub.com/thinking-functionally-in-php
 * 《重构 —— 改善现有代码设计》只有书名
