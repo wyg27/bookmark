@@ -1,6 +1,7 @@
-## 在线围棋
+## Games
 
-https://www.cosumi.net/en/
+* 在线围棋 https://www.cosumi.net/en/
+* DOS Games https://dos.zczc.cz
 
 ## 在线视频
 
