@@ -14,6 +14,7 @@ SnapDrop https://snapdrop.net
 ## 图片处理
 
 图片转换为线稿 https://tech-lagoon.com/imagechef/zhcn/image-to-edge.html
+智能移除图片内容 https://www.magiceraser.io
 
 ## Cheat Sheet
 
