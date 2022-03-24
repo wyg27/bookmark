@@ -37,6 +37,7 @@
 * Shell脚本中的分号使用 https://www.cnblogs.com/EasonJim/p/8315896.html
 * Shell字符串截取 http://c.biancheng.net/view/1120.html
 * 后台运行 `nohup ./foobar &`
+* 《shell脚本：丢弃报错信息，保留正常输出》https://blog.csdn.net/avatar_2009/article/details/107837072
 
 ## C
 
