@@ -49,3 +49,9 @@
 ## C
 
 * https://www.tutorialspoint.com/cprogramming/c_typedef.htm
+
+## 设计模式
+
+* https://github.com/guanguans/design-patterns-for-humans-cn
+* https://www.tutorialspoint.com/cprogramming/c_typedef.htm模式
+* https://www.tutorialspoint.com/cprogramming/c_typedef.htm
