@@ -38,6 +38,7 @@
 * 《Thinking Functionally in PHP》电子书，需购买 https://leanpub.com/thinking-functionally-in-php
 * 《重构 —— 改善现有代码设计》只有书名
 * 《常见代码重构技巧》https://juejin.cn/post/6954378167947624484
+* 《Object-Oriented Analysis and Design with Applications》https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDM3992988&R=3992988
 
 
 ## 散碎的 Shell 脚本教程
