@@ -58,3 +58,7 @@
 ## 设计模式
 
 * https://github.com/guanguans/design-patterns-for-humans-cn
+
+## Redis/队列
+
+* Redis作消息队列的消息可靠性如何保证？https://www.zhihu.com/question/43688764
