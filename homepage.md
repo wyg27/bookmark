@@ -51,6 +51,7 @@
 ## C
 
 * https://www.tutorialspoint.com/cprogramming/c_typedef.htm
+* 《C 语言教程》https://wangdoc.com/clang/index.html
 
 ## 设计模式
 
