@@ -19,6 +19,7 @@
 
 * 图片转换为线稿 https://tech-lagoon.com/imagechef/zhcn/image-to-edge.html
 * 智能移除图片内容 https://www.magiceraser.io
+* 图片搜索（用于假新闻验证不错） https://tineye.com
 
 ## Cheat Sheet
 
