@@ -25,6 +25,7 @@
 ## Cheat Sheet
 
 * VIM https://vim.rtorr.com/lang/zh_cn
+* Curl工具使用指南 https://juejin.cn/post/7081685548271665183
 
 ## 英文例句
 
