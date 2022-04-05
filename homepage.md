@@ -3,6 +3,11 @@
 * SQL 格式化 https://www.dpriver.com/pp/sqlformat.htm
 * cURL 范例 https://reqbin.com/curl
 
+## Music
+
+* 《中国火》https://www.youtube.com/watch?v=szpgA7ae-1I
+* 《7th Guest》https://www.youtube.com/watch?v=__nljZezcbg
+
 ## Games
 
 * 在线围棋 https://www.cosumi.net/en/
