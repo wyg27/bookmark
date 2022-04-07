@@ -71,3 +71,7 @@
 ## Redis/队列
 
 * Redis作消息队列的消息可靠性如何保证？https://www.zhihu.com/question/43688764
+
+## 有趣
+
+* https://www.codegrepper.com/code-examples/
