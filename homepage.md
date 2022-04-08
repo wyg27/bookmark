@@ -6,6 +6,7 @@
 ## Music
 
 * 《中国火》https://www.youtube.com/watch?v=szpgA7ae-1I
+* 《中国火2》https://www.youtube.com/watch?v=SmL19okJTDw
 * 《7th Guest》https://www.youtube.com/watch?v=__nljZezcbg
 
 ## Games
