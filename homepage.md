@@ -75,6 +75,7 @@
 ## AppleScript
 
 * 《AppleScript 入门：探索 macOS 自动化》https://sspai.com/post/46912
+* 官方文档 https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/conceptual/ASLR_lexical_conventions.html#//apple_ref/doc/uid/TP40000983-CH214-SW8
 
 ## 设计模式
 
