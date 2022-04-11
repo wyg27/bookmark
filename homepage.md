@@ -9,6 +9,7 @@
 * 《中国火2》https://www.youtube.com/watch?v=SmL19okJTDw
 * 《中国火2》https://www.youtube.com/watch?v=9cNrrpE79AY
 * 《7th Guest》https://www.youtube.com/watch?v=__nljZezcbg
+* 4小时西班牙吉他曲 https://www.youtube.com/watch?v=YDhUMt0aDEQ
 
 ## Games
 
