@@ -72,6 +72,10 @@
 * https://www.tutorialspoint.com/cprogramming/c_typedef.htm
 * 《C 语言教程》https://wangdoc.com/clang/index.html
 
+## AppleScript
+
+* 《AppleScript 入门：探索 macOS 自动化》https://sspai.com/post/46912
+
 ## 设计模式
 
 * https://github.com/guanguans/design-patterns-for-humans-cn
