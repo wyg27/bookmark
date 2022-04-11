@@ -55,6 +55,7 @@
 
 ## 散碎的 Shell 脚本教程
 
+* 《SED 简明教程》https://coolshell.cn/articles/9104.html
 * Shell 较为系统的教程 http://c.biancheng.net/view/706.html
 * 《Linux Shell多进程并发控制》http://ouyangyewei.github.io/2016/01/10/linux-multi-process-concurrent-control/
 * Shell脚本中的分号使用 https://www.cnblogs.com/EasonJim/p/8315896.html
