@@ -66,6 +66,7 @@
 * 《shell脚本：丢弃报错信息，保留正常输出》https://blog.csdn.net/avatar_2009/article/details/107837072
 * 获取日期 https://www.cyberciti.biz/faq/unix-linux-getting-current-date-in-bash-ksh-shell-script/
 * 使用 tail 结合 grep 查找日志关键字并高亮及显示所在行上下文 https://xiaogd.net/md/search-log-using-tail-and-grep
+* 使用kill命令批量终止进程 https://blog.csdn.net/lu_embedded/article/details/53590815
 
 ## C
 
