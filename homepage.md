@@ -93,3 +93,7 @@
 * https://www.codegrepper.com/code-examples/
 * 我的按键映射工具 https://github.com/xianyukang/MyKeymap
 * 浏览器自动工具 https://ui.vision
+
+## 开源 desktop 软件
+
+* 兼容主流 database 的 UI 管理软件 https://dbeaver.io
