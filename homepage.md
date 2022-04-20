@@ -68,6 +68,9 @@
 * 获取日期 https://www.cyberciti.biz/faq/unix-linux-getting-current-date-in-bash-ksh-shell-script/
 * 使用 tail 结合 grep 查找日志关键字并高亮及显示所在行上下文 https://xiaogd.net/md/search-log-using-tail-and-grep
 * 使用kill命令批量终止进程 https://blog.csdn.net/lu_embedded/article/details/53590815
+* 《Shell比较两个日期的大小》https://blog.csdn.net/bigdatahappy/article/details/10175625
+* 《AWK比较时间直接用字符串比较》https://blog.51cto.com/kure6/864894
+* 《shell批量移动文件》https://www.jianshu.com/p/32958c76f5fd
 
 ## C
 
