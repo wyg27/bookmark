@@ -71,6 +71,7 @@
 * 《Shell比较两个日期的大小》https://blog.csdn.net/bigdatahappy/article/details/10175625
 * 《AWK比较时间直接用字符串比较》https://blog.51cto.com/kure6/864894
 * 《shell批量移动文件》https://www.jianshu.com/p/32958c76f5fd
+* 百分比“动画” https://stackoverflow.com/questions/238073/how-to-add-a-progress-bar-to-a-shell-script
 
 ## C
 
