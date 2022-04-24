@@ -76,6 +76,7 @@
 * 倒计时 https://serverfault.com/questions/532559/bash-script-count-down-5-minutes-display-on-single-line
 * 颜色 https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux
 * 数字的比较 https://www.linuxtechi.com/compare-numbers-strings-files-in-bash-script/
+* 同时给多个变量赋值 https://huataihuang.gitbooks.io/cloud-atlas/content/develop/shell/bash/multiple_variable_assignment.html
 
 ## C
 
