@@ -75,6 +75,7 @@
 * 百分比“动画” https://stackoverflow.com/questions/238073/how-to-add-a-progress-bar-to-a-shell-script
 * 倒计时 https://serverfault.com/questions/532559/bash-script-count-down-5-minutes-display-on-single-line
 * 颜色 https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux
+* 数字的比较 https://www.linuxtechi.com/compare-numbers-strings-files-in-bash-script/
 
 ## C
 
