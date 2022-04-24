@@ -73,6 +73,7 @@
 * 《shell批量移动文件》https://www.jianshu.com/p/32958c76f5fd
 * 百分比“动画” https://stackoverflow.com/questions/238073/how-to-add-a-progress-bar-to-a-shell-script
 * 倒计时 https://serverfault.com/questions/532559/bash-script-count-down-5-minutes-display-on-single-line
+* 颜色 https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux
 
 ## C
 
