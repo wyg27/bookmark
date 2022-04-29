@@ -103,6 +103,7 @@
 * https://www.codegrepper.com/code-examples/
 * 我的按键映射工具 https://github.com/xianyukang/MyKeymap
 * 浏览器自动工具 https://ui.vision
+* 野兔代替C语言 https://harelang.org/tutorials/introduction/
 
 ## 开源 desktop 软件
 
