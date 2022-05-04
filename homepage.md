@@ -4,6 +4,7 @@
 * cURL 范例 https://reqbin.com/curl
 * Webhook 模拟 https://webhook.site/
 * 英文语法检查 https://writer.com/grammar-checker/
+* 文字自动补全 https://espanso.org
 
 ## Music
 
@@ -108,3 +109,4 @@
 ## 开源 desktop 软件
 
 * 兼容主流 database 的 UI 管理软件 https://dbeaver.io
+* HFS 3 全新发布，最简单的文件分享工具 https://www.appinn.com/hfs-3/
