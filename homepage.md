@@ -105,6 +105,7 @@
 * 我的按键映射工具 https://github.com/xianyukang/MyKeymap
 * 浏览器自动工具 https://ui.vision
 * 野兔代替C语言 https://harelang.org/tutorials/introduction/
+* 用例子学Go语言，但是它的开源网站生成器很好 https://github.com/mmcgrana/gobyexample
 
 ## 开源 desktop 软件
 
