@@ -5,6 +5,7 @@
 * Webhook 模拟 https://webhook.site/
 * 英文语法检查 https://writer.com/grammar-checker/
 * 文字自动补全 https://espanso.org
+* 基于 Docker 的 http 模拟器 http://httpbin.org
 
 ## Music
 
