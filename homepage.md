@@ -60,6 +60,7 @@
 * 《Object-Oriented Analysis and Design with Applications》https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDM3992988&R=3992988
 * 《编写自文档化JavaScript的15种方法》https://www.jianshu.com/p/1a1a7c56605f
 *  指针和值的对比 https://www.ardanlabs.com/blog/2017/06/design-philosophy-on-data-and-semantics.html
+*  《14 great tips to make amazing CLI applications》https://dev.to/wesen/14-great-tips-to-make-amazing-cli-applications-3gp3
 
 
 ## 散碎的 Shell 脚本教程
