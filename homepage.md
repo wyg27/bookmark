@@ -7,6 +7,7 @@
 * 文字自动补全 https://espanso.org
 * 基于 Docker 的 http 模拟器 http://httpbin.org
 * 音频转换 https://cloudconvert.com
+* AI 写作 https://rytr.me
 
 ## Music
 
