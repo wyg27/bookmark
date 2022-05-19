@@ -12,8 +12,6 @@
 ## Music
 
 * 《中国火》https://www.youtube.com/watch?v=szpgA7ae-1I
-* 《中国火2》https://www.youtube.com/watch?v=SmL19okJTDw
-* 《中国火2》https://www.youtube.com/watch?v=9cNrrpE79AY
 * 《7th Guest》https://www.youtube.com/watch?v=__nljZezcbg
 * 《Fallout》https://www.youtube.com/watch?v=vGyB093QOIo
 * 4小时西班牙吉他曲 https://www.youtube.com/watch?v=YDhUMt0aDEQ
