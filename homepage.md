@@ -116,3 +116,9 @@
 
 * 兼容主流 database 的 UI 管理软件 https://dbeaver.io
 * HFS 3 全新发布，最简单的文件分享工具 https://www.appinn.com/hfs-3/
+
+## 美国
+
+* 美国加州华裔分布 https://www.chinesebiznews.com/chinesebiznews/news/detail_20167.html
+* 洛杉矶政府官网 https://www.lacity.org/
+* 旧金山政府官网 https://sf.gov
