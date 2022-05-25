@@ -61,7 +61,7 @@
 * 《编写自文档化JavaScript的15种方法》https://www.jianshu.com/p/1a1a7c56605f
 *  指针和值的对比 https://www.ardanlabs.com/blog/2017/06/design-philosophy-on-data-and-semantics.html
 *  《14 great tips to make amazing CLI applications》https://dev.to/wesen/14-great-tips-to-make-amazing-cli-applications-3gp3
-*  《Methods, Interfaces and Embedded Types in Go》https://www.ardanlabs.com/blog/2014/05/methods-interfaces-and-embedded-types.html
+*  《Methods, Interfaces and Embedded Types in Go》https://www.ardanlabs.com/blog/2014/05/methods-interfaces-and-embedded-types.html （已读1次）
 
 
 ## 散碎的 Shell 脚本教程
