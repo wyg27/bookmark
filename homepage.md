@@ -62,7 +62,7 @@
 *  指针和值的对比 https://www.ardanlabs.com/blog/2017/06/design-philosophy-on-data-and-semantics.html
 *  《14 great tips to make amazing CLI applications》https://dev.to/wesen/14-great-tips-to-make-amazing-cli-applications-3gp3
 *  《Methods, Interfaces and Embedded Types in Go》https://www.ardanlabs.com/blog/2014/05/methods-interfaces-and-embedded-types.html （已读1次）
-*  《Pointfree 编程风格指南》http://www.ruanyifeng.com/blog/2017/03/pointfree.html
+*  《Pointfree 编程风格指南》http://www.ruanyifeng.com/blog/2017/03/pointfree.html （PHP 的实现 https://github.com/kapolos/pramda）
 *  《Ramda 函数库参考教程》http://www.ruanyifeng.com/blog/2017/03/ramda.html
 
 
