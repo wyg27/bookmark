@@ -131,6 +131,7 @@
 * 美国加州华裔分布 https://www.chinesebiznews.com/chinesebiznews/news/detail_20167.html
 * 洛杉矶政府官网 https://www.lacity.org/
 * 旧金山政府官网 https://sf.gov
+* 好像有趣的科学 https://www.livescience.com
 
 ## 编程初学
 
