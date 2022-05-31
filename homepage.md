@@ -8,6 +8,7 @@
 * 基于 Docker 的 http 模拟器 http://httpbin.org
 * 音频转换 https://cloudconvert.com
 * AI 写作 https://rytr.me
+* 讓 PDF 文件看起來像影印、掃描過的效果 https://lookscanned.io
 
 ## Music
 
