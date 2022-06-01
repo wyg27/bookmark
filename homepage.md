@@ -132,7 +132,9 @@
 * 洛杉矶政府官网 https://www.lacity.org/
 * 旧金山政府官网 https://sf.gov
 * 好像有趣的科学 https://www.livescience.com
+* https://www.thecollector.com
 
 ## 编程初学
 
 * https://www.greenfoot.org/door
+* 付费课程，有开发中的数学 https://pikuma.com
