@@ -134,6 +134,7 @@
 * 旧金山政府官网 https://sf.gov
 * 好像有趣的科学 https://www.livescience.com
 * https://www.thecollector.com
+* 一个简洁的 PHP 教学网站 https://www.phptutorial.net
 
 ## 编程初学
 
