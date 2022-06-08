@@ -18,6 +18,10 @@
 * 4小时西班牙吉他曲 https://www.youtube.com/watch?v=YDhUMt0aDEQ
 * 猫王 mixed https://www.youtube.com/watch?v=vGJTaP6anOU&list=RDEM-eeUhlc3P23SHenjSIvunw&start_radio=1&rv=DCP_g7X31nI
 
+## macOS 提示
+
+* pbcopy/pbpaste，例如 `cat test.sh| pbcopy`
+
 ## Games
 
 * 在线围棋 https://www.cosumi.net/en/
