@@ -70,6 +70,7 @@
 *  《Methods, Interfaces and Embedded Types in Go》https://www.ardanlabs.com/blog/2014/05/methods-interfaces-and-embedded-types.html （已读1次）
 *  《Pointfree 编程风格指南》http://www.ruanyifeng.com/blog/2017/03/pointfree.html （PHP 的实现 https://github.com/kapolos/pramda）
 *  《Ramda 函数库参考教程》http://www.ruanyifeng.com/blog/2017/03/ramda.html
+*  用范例说明 Go 的 interface，同时展示了如果以 interface 作为抽象来构建逻辑的脉络 https://github.com/Evertras/go-interface-examples/tree/master/local-interfaces
 
 
 ## 散碎的 Shell 脚本教程
