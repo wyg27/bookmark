@@ -71,6 +71,7 @@
 *  《Pointfree 编程风格指南》http://www.ruanyifeng.com/blog/2017/03/pointfree.html （PHP 的实现 https://github.com/kapolos/pramda）
 *  《Ramda 函数库参考教程》http://www.ruanyifeng.com/blog/2017/03/ramda.html
 *  用范例说明 Go 的 interface，同时展示了如果以 interface 作为抽象来构建逻辑的脉络 https://github.com/Evertras/go-interface-examples/tree/master/local-interfaces
+*  《聊一聊函数式编程中的副作用概念》https://juejin.cn/post/6908512860683370503
 
 
 ## 散碎的 Shell 脚本教程
