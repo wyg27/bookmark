@@ -141,6 +141,7 @@
 * 好像有趣的科学 https://www.livescience.com
 * https://www.thecollector.com
 * 一个简洁的 PHP 教学网站 https://www.phptutorial.net
+* https://lifehacker.com/home
 
 ## 编程初学
 
