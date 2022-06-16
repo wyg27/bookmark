@@ -143,6 +143,7 @@
 * 一个简洁的 PHP 教学网站 https://www.phptutorial.net
 * https://lifehacker.com/home
 * https://www.my-best-products.com/category/home-daily/
+* https://www.buzzfeed.com/ca
 
 ## 编程初学
 
