@@ -144,6 +144,7 @@
 * https://lifehacker.com/home
 * https://www.my-best-products.com/category/home-daily/
 * https://www.buzzfeed.com/ca
+* https://www.psypost.org
 
 ## 编程初学
 
