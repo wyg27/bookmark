@@ -145,6 +145,7 @@
 * https://www.my-best-products.com/category/home-daily/
 * https://www.buzzfeed.com/ca
 * https://www.psypost.org
+* https://earth911.com/recycling-guide/how-to-recycle-cds-tapes/
 
 ## 编程初学
 
