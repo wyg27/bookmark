@@ -142,6 +142,7 @@
 * https://www.thecollector.com
 * 一个简洁的 PHP 教学网站 https://www.phptutorial.net
 * https://lifehacker.com/home
+* https://www.my-best-products.com/category/home-daily/
 
 ## 编程初学
 
