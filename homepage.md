@@ -146,6 +146,7 @@
 * https://www.buzzfeed.com/ca
 * https://www.psypost.org
 * https://earth911.com/recycling-guide/how-to-recycle-cds-tapes/
+* https://bigthink.com/questions/should-we-trust-science/
 
 ## 编程初学
 
