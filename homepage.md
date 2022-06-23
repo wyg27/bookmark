@@ -26,6 +26,7 @@
 
 * https://webscraper.io （Chrome 扩展）
 * https://academy.parsehub.com （Desktop）
+* https://simplescraper.io/#pricing （Chrome 扩展）
 
 ## Games
 
