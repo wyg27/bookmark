@@ -22,6 +22,11 @@
 
 * pbcopy/pbpaste，例如 `cat test.sh| pbcopy`
 
+## 付费爬虫服务
+
+* https://webscraper.io （Chrome 扩展）
+* https://academy.parsehub.com （Desktop）
+
 ## Games
 
 * 在线围棋 https://www.cosumi.net/en/
