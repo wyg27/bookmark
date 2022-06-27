@@ -1,6 +1,7 @@
 ## Tools
 
 * SQL 格式化 https://www.dpriver.com/pp/sqlformat.htm
+* CronTab 配置生成器 https://crontab-generator.org
 * cURL 范例 https://reqbin.com/curl
 * Webhook 模拟 https://webhook.site/
 * 英文语法检查 https://writer.com/grammar-checker/
