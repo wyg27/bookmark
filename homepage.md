@@ -18,6 +18,7 @@
 * 《Fallout》https://www.youtube.com/watch?v=vGyB093QOIo
 * 4小时西班牙吉他曲 https://www.youtube.com/watch?v=YDhUMt0aDEQ
 * 猫王 mixed https://www.youtube.com/watch?v=vGJTaP6anOU&list=RDEM-eeUhlc3P23SHenjSIvunw&start_radio=1&rv=DCP_g7X31nI
+* 猫王（非 MV）https://www.youtube.com/watch?v=T4vMb3vyG7M
 * Take It Easy Rock 摇滚合集 https://www.youtube.com/watch?v=yYcyacLRPNs&list=RDCLAK5uy_mfut9V_o1n9nVG_m5yZ3ztCif29AHUffI&start_radio=1&rv=vGJTaP6anOU
 
 ## macOS 提示
