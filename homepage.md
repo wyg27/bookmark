@@ -136,6 +136,7 @@
 * 开源心理测试题 https://openpsychometrics.org
 * 游戏引擎 https://heaps.io/index.html
 * 游戏开发者的网站 https://www.askforgametask.com （有一些机器学习的线索，主要能看到相关的数学知识有哪些）
+* 通过 PHP 函数反查 Go 函数 https://www.php2golang.com
 
 ## 开源 desktop 软件
 
