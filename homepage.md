@@ -162,6 +162,7 @@
 * https://bigthink.com/questions/should-we-trust-science/
 * https://newsnery.com/index.php
 * 缩写大全 https://www.allacronyms.com/status/abbreviated/aircraft
+* 各种趣味测试 https://www.proprofs.com/quiz-school/browse 👍
 
 ## 编程初学
 
