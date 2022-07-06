@@ -38,6 +38,7 @@
 * DOS Games https://dos.zczc.cz
 * 2D 游戏引擎 https://bitsy.org
 * Basic Games http://www.vintage-basic.net/index.html
+* 儿童将棋 https://www.nintendo.com/en-ca/store/products/dobutsu-shogi-world-switch/
 
 ## 在线视频
 
