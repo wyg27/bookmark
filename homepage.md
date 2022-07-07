@@ -168,3 +168,7 @@
 
 * https://www.greenfoot.org/door
 * 付费课程，有开发中的数学 https://pikuma.com
+
+## Quize 开源
+
+* https://github.com/RohithSrk/Quizzy
