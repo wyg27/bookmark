@@ -86,6 +86,10 @@
 *  《聊一聊函数式编程中的副作用概念》https://juejin.cn/post/6908512860683370503
 *  《什么是算法？从枚举到贪心再到启发式（上）》https://www.cnblogs.com/dengfaheng/p/12904538.html
 
+## JavaScript
+
+* 《[浅析]图解前端登录鉴权方案》https://juejin.cn/post/7067531231918817310
+
 
 ## 散碎的 Shell 脚本教程
 
