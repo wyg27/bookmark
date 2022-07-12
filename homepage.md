@@ -168,6 +168,7 @@
 * https://newsnery.com/index.php
 * 缩写大全 https://www.allacronyms.com/status/abbreviated/aircraft
 * 各种趣味测试 https://www.proprofs.com/quiz-school/browse 👍
+* 250 Questions to Ask a Girl https://parade.com/1286882/marynliles/questions-to-ask-a-girl/
 
 ## 编程初学
 
