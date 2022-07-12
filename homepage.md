@@ -171,6 +171,7 @@
 * 250 Questions to Ask a Girl https://parade.com/1286882/marynliles/questions-to-ask-a-girl/
 * https://www.buzzfeed.com/lorynbrantz/only-people-with-bizarrely-good-vision-can-read-th?utm_term=.fpWZQWo6N#.fhNRX3ApY
 * Can You Pass This Lie Detector Test? https://www.buzzfeed.com/sarahaspler/can-you-pass-this-lie-detector-test?utm_term=.nxNk9xq42#.uxzJdB7VX
+* https://www.arealme.com/category/knowledge/en 👍（各种趣味测试）
 
 ## 编程初学
 
