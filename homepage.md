@@ -53,6 +53,7 @@
 
 * 图片转换为线稿 https://tech-lagoon.com/imagechef/zhcn/image-to-edge.html
 * 智能移除图片内容 https://www.magiceraser.io
+* 又一个移除图片 https://remover.zmo.ai
 * 图片搜索（用于假新闻验证不错） https://tineye.com
 * PhotoRoom 線上免費版修圖工具中最強大的自動去背、刪除人物 https://www.photoroom.com
 
