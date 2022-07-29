@@ -191,3 +191,7 @@
 ## 有趣的网站
 
 * 早期办公室博物馆 https://www.officemuseum.com
+
+## 旅游
+
+日本游客满意度最高的地方 https://cn.nikkei.com/industry/tradingretail/49296-2022-07-25-05-04-06.html
