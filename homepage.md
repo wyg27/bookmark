@@ -68,6 +68,7 @@
 
 * https://sentencedict.com/because.html
 * 外语学习与刻意练习 https://xiaogd.net/md/learn-foreign-language-and-deliberate-practice
+* 自己收集的英文句型 https://github.com/wyg27/bookmark/blob/master/english-sentences-example.md
 
 ## Reading List
 
