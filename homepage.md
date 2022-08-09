@@ -195,4 +195,5 @@
 
 ## 旅游
 
-日本游客满意度最高的地方 https://cn.nikkei.com/industry/tradingretail/49296-2022-07-25-05-04-06.html
+* 日本游客满意度最高的地方 https://cn.nikkei.com/industry/tradingretail/49296-2022-07-25-05-04-06.html
+* 10 Canadian Beaches That Are Beyond Beautiful https://www.thetravel.com/best-canadian-beaches/
