@@ -63,6 +63,7 @@
 * VIM https://vim.rtorr.com/lang/zh_cn
 * Curl工具使用指南 https://juejin.cn/post/7081685548271665183
 * linux screen 命令详解 https://www.cnblogs.com/mchina/archive/2013/01/30/2880680.html
+* PHPDoc Tag 参考 https://docs.phpdoc.org/guide/references/phpdoc/tags/index.html#tag-reference
 
 ## 英文例句
 
