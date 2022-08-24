@@ -1,3 +1,8 @@
+## 公司常用
+
+* 工资单 https://workforcenow.adp.com/theme/index.html (UserId: w***7)
+* 邮箱 https://portal.office.com
+
 ## 电子书
 
 * https://www.gpdf.net/
