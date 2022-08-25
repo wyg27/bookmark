@@ -6,6 +6,7 @@
 ## 电子书
 
 * https://www.gpdf.net/
+* [银河系漫游指南](http://www.dushu369.com/qtyd/HTML/78703.html)
 
 ## Tools
 
