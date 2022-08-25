@@ -188,6 +188,7 @@
 * Can You Pass This Lie Detector Test? https://www.buzzfeed.com/sarahaspler/can-you-pass-this-lie-detector-test?utm_term=.nxNk9xq42#.uxzJdB7VX
 * https://www.arealme.com/category/knowledge/en 👍（各种趣味测试）
 * https://tinytrashcan.com/category/grocery-shopping/ （环保）
+* https://zditect.com （垃圾站翻译参考）
 
 ## 编程初学
 
