@@ -54,6 +54,7 @@
 ## 在线视频
 
 * 泥巴影院 https://www.nbys1.tv/
+* “快下” Mac 软件 https://vdownapp.com
 
 ## 文件传递
 
