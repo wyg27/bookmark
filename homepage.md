@@ -27,7 +27,7 @@
 
 * 《中国火》https://www.youtube.com/watch?v=szpgA7ae-1I
 * 《7th Guest》https://www.youtube.com/watch?v=__nljZezcbg
-* 《Fallout》https://www.youtube.com/watch?v=vGyB093QOIo
+* 《Fallout 插曲合集》https://www.youtube.com/watch?v=rhp8jMykAVg&list=PLD3MboLuMLE1nFTc1bFj3Sz2g6FhBdVKB
 * 4小时西班牙吉他曲 https://www.youtube.com/watch?v=YDhUMt0aDEQ
 * 猫王 mixed https://www.youtube.com/watch?v=vGJTaP6anOU&list=RDEM-eeUhlc3P23SHenjSIvunw&start_radio=1&rv=DCP_g7X31nI
 * 猫王（非 MV）https://www.youtube.com/watch?v=T4vMb3vyG7M
