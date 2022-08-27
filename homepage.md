@@ -190,6 +190,7 @@
 * https://www.arealme.com/category/knowledge/en 👍（各种趣味测试）
 * https://tinytrashcan.com/category/grocery-shopping/ （环保）
 * https://zditect.com （垃圾站翻译参考）
+* https://abc30.com/knowtheroad/ （多种美国交通规则）
 
 ## 编程初学
 
