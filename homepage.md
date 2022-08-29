@@ -193,6 +193,7 @@
 * https://zditect.com （垃圾站翻译参考）
 * https://abc30.com/knowtheroad/ （多种美国交通规则）
 * CSP Exam Flashcards Study System https://www.flashcardsecrets.com/csp/
+* 美国各类认证考试索引 https://nacpb.org/free-bookkeeper-resources/bookkeeper-certification-practice-tests/
 
 ## 编程初学
 
