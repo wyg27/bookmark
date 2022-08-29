@@ -161,7 +161,6 @@
 * 游戏开发者的网站 https://www.askforgametask.com （有一些机器学习的线索，主要能看到相关的数学知识有哪些）
 * 通过 PHP 函数反查 Go 函数 https://www.php2golang.com
 * 文本游戏 https://textadventures.co.uk
-* CSP Exam Flashcards Study System https://www.flashcardsecrets.com/csp/
 
 ## 开源 desktop 软件
 
@@ -193,6 +192,7 @@
 * https://tinytrashcan.com/category/grocery-shopping/ （环保）
 * https://zditect.com （垃圾站翻译参考）
 * https://abc30.com/knowtheroad/ （多种美国交通规则）
+* CSP Exam Flashcards Study System https://www.flashcardsecrets.com/csp/
 
 ## 编程初学
 
