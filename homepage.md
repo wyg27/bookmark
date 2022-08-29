@@ -194,6 +194,7 @@
 * https://abc30.com/knowtheroad/ （多种美国交通规则）
 * CSP Exam Flashcards Study System https://www.flashcardsecrets.com/csp/
 * 美国各类认证考试索引 https://nacpb.org/free-bookkeeper-resources/bookkeeper-certification-practice-tests/
+* 经验类文章可供收集 https://www.extrabux.com/chs/guide/p1
 
 ## 编程初学
 
