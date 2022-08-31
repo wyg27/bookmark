@@ -69,6 +69,7 @@
 * 图片搜索（用于假新闻验证不错） https://tineye.com
 * PhotoRoom 線上免費版修圖工具中最強大的自動去背、刪除人物 https://www.photoroom.com
 * 图片加文字（支持中文）https://tools.picsart.com/text/add-text-to-photo/
+* 去除图片背景 https://www.experte.com/background-remover
 
 ## Cheat Sheet
 
