@@ -71,6 +71,8 @@
 * PhotoRoom 線上免費版修圖工具中最強大的自動去背、刪除人物 https://www.photoroom.com
 * 图片加文字（支持中文）https://tools.picsart.com/text/add-text-to-photo/
 * 去除图片背景 https://www.experte.com/background-remover
+* 图片压缩 https://compressimage.io
+* 图片敏感内容自动覆盖马赛克 https://blackhighlighter.app
 
 ## Cheat Sheet
 
