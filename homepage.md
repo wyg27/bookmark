@@ -199,6 +199,7 @@
 * CSP Exam Flashcards Study System https://www.flashcardsecrets.com/csp/
 * 美国各类认证考试索引 https://nacpb.org/free-bookkeeper-resources/bookkeeper-certification-practice-tests/
 * 经验类文章可供收集 https://www.extrabux.com/chs/guide/p1
+* 家庭装修工具评测 https://breakingfreemediation.com
 
 ## 编程初学
 
