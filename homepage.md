@@ -74,6 +74,10 @@
 * 图片压缩 https://compressimage.io
 * 图片敏感内容自动覆盖马赛克 https://blackhighlighter.app
 
+## 浏览器插件
+
+* 网页阅读模式 + 全文朗读（支持中文）https://chrome.google.com/webstore/detail/clearly-reader-your-missi/odfonlkabodgbolnmmkdijkaeggofoop/
+
 ## Cheat Sheet
 
 * VIM https://vim.rtorr.com/lang/zh_cn
