@@ -73,6 +73,7 @@
 * 去除图片背景 https://www.experte.com/background-remover
 * 图片压缩 https://compressimage.io
 * 图片敏感内容自动覆盖马赛克 https://blackhighlighter.app
+* 搜索图片，如果找不到就 AI 生成 https://www.stockai.com/
 
 ## 浏览器插件
 
