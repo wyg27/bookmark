@@ -51,6 +51,7 @@
 * 2D 游戏引擎 https://bitsy.org
 * Basic Games http://www.vintage-basic.net/index.html
 * 儿童将棋 https://www.nintendo.com/en-ca/store/products/dobutsu-shogi-world-switch/
+* 开源游戏集合 https://github.com/Trilarion/opensourcegames
 
 ## 在线视频
 
