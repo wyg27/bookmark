@@ -52,6 +52,7 @@
 * Basic Games http://www.vintage-basic.net/index.html
 * 儿童将棋 https://www.nintendo.com/en-ca/store/products/dobutsu-shogi-world-switch/
 * 开源游戏集合 https://github.com/Trilarion/opensourcegames
+* 允许你运行 DOS 老游戏 https://www.scummvm.org
 
 ## 在线视频
 
