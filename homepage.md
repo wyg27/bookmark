@@ -1,3 +1,7 @@
+## 自学进程
+
+* https://www.educative.io/courses/getting-started-sql-relational-databases/qA7KvRoMgX0
+
 ## 公司常用
 
 * 工资单 https://workforcenow.adp.com/theme/index.html (UserId: w***7)
