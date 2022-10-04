@@ -1,6 +1,7 @@
 ## 自学进程
 
 * https://www.educative.io/courses/getting-started-sql-relational-databases/qA7KvRoMgX0
+* https://amp.dev/documentation/guides-and-tutorials/start/add_advanced/?format=websites
 
 ## 公司常用
 
