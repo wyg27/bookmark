@@ -12,6 +12,7 @@
 
 * https://www.gpdf.net/
 * [银河系漫游指南](http://www.dushu369.com/qtyd/HTML/78703.html)
+* [夜窗鬼谈·东齐谐](https://www.99csw.com/book/11056/index.htm)
 
 ## Tools
 
