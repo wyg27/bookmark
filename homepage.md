@@ -15,6 +15,7 @@
 * [夜窗鬼谈·东齐谐](https://www.99csw.com/book/11056/index.htm)
 * [十三夜](https://www.99csw.com/book/10664/385303.htm)
 * [昆虫记](https://www.99csw.com/book/9678/index.htm)
+* [西方伪科学种种](https://www.99csw.com/book/193/index.htm)
 
 ## Tools
 
