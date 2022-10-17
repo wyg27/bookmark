@@ -34,6 +34,7 @@
 * 中文词典 https://pedia.cloud.edu.tw/Entry/Detail?title=媵&search=媵
 * 监控网站是否正常运行（1分间隔） https://uptime24.io 
 * 诺顿强密码生成器 https://my.norton.com/extspa/passwordmanager?path=pwd-gen
+* VocalRemover – 强大的在线音频处理工具：人声分离、变调、剪辑 https://vocalremover.org
 
 ## Music
 
