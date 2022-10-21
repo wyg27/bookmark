@@ -194,6 +194,7 @@
 * 兼容主流 database 的 UI 管理软件 https://dbeaver.io
 * HFS 3 全新发布，最简单的文件分享工具 https://www.appinn.com/hfs-3/
 * 开源视频“粗剪”，速度快 https://github.com/mifi/lossless-cut
+* 开源 Maccy – macOS 剪贴板历史记录的管理与使用 https://maccy.app
 
 ## 美国
 
