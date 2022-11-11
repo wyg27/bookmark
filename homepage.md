@@ -38,6 +38,7 @@
 * 监控网站是否正常运行（1分间隔） https://uptime24.io 
 * 诺顿强密码生成器 https://my.norton.com/extspa/passwordmanager?path=pwd-gen
 * VocalRemover – 强大的在线音频处理工具：人声分离、变调、剪辑 https://vocalremover.org
+* Mp3cut Audio Cutter 線上剪輯音樂還能調整音量、播放速度和升降 key https://mp3cut.net/tw/
 
 ## Music
 
