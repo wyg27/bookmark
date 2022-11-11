@@ -21,6 +21,7 @@
 
 ## Tools
 
+* 繁化姬：自動繁簡轉換工具 https://zhconvert.org
 * SQL 格式化 https://www.dpriver.com/pp/sqlformat.htm
 * CronTab 配置生成器 https://crontab-generator.org
 * cURL 范例 https://reqbin.com/curl
