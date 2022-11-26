@@ -79,6 +79,7 @@
 
 ## 文件传递
 
+* https://filetransfer.io
 * SnapDrop https://snapdrop.net
 * 電腦、手機間互傳檔案，無檔案大小流量限制 https://drop.lol/KHJVC
 
