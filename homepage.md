@@ -77,6 +77,7 @@
 * 泥巴影院 https://www.nbys1.tv/
 * “快下” Mac 软件 https://vdownapp.com
 * 低端影视 https://ddys.tv/category/movie/
+* 爱壹帆 https://www.iyf.tv/
 
 ## 文件传递
 
