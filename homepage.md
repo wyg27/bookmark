@@ -4,6 +4,7 @@
 * https://amp.dev/documentation/guides-and-tutorials/start/add_advanced/?format=websites
 * https://htmx.org
 * https://knockoutjs.com
+* 别再用JS框架了, 原文《No more JS frameworks》https://coderlmn.github.io/frontEndCourse/nomoreJSF.html
 
 ## 公司常用
 
