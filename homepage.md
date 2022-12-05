@@ -100,6 +100,7 @@
 * 图片敏感内容自动覆盖马赛克 https://blackhighlighter.app
 * 搜索图片，如果找不到就 AI 生成 https://www.stockai.com/
 * 從相片清除人物或物品，以 AI 自動辨識可移除的目標 https://snapedit.app
+* 图片合并（垂直/水平）https://pinetools.com/merge-images
 
 ## 浏览器插件
 
