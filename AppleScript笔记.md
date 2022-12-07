@@ -1,7 +1,5 @@
 ## 在 AppleScript 中打开 terminal 并执行 shell 脚本
 
-Example
-
 ```applescript
 tell application "Terminal"
     do script "/opt/homebrew/opt/postgresql@15/bin/postgres -D /opt/homebrew/var/postgresql@15"
@@ -16,3 +14,12 @@ end tell
 * https://stackoverflow.com/questions/1870270/sending-commands-and-strings-to-terminal-app-with-applescript
 * https://stackoverflow.com/questions/10022161/open-programs-with-applescript
 * https://developer.apple.com/library/archive/documentation/LanguagesUtilities/Conceptual/MacAutomationScriptingGuide/CallCommandLineUtilities.html
+
+## 在 AppleScript 中打开 Safari 并访问特定页面
+
+```applescript
+tell application "Safari"
+    open location "https://github.com/"
+    activate
+end tell
+```
