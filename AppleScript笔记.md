@@ -35,3 +35,7 @@ tell application "Terminal"
     do script ("cd " & quoted form of myPath)
 end tell
 ```
+
+参考：
+
+* http://hints.macworld.com/article.php?story=20110627065655730
