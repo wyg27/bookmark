@@ -42,6 +42,7 @@
 * VocalRemover – 强大的在线音频处理工具：人声分离、变调、剪辑 https://vocalremover.org
 * Mp3cut Audio Cutter 線上剪輯音樂還能調整音量、播放速度和升降 key https://mp3cut.net/tw/
 * HomeChromeDistill Web Monitor – 监控网页「任意区域」变化，实时提醒 https://distill.io
+* 區塊鏈建立永久保存的網頁畫面備份和截圖 https://www.archiveforever.xyz
 
 ## Music
 
