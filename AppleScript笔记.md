@@ -23,3 +23,15 @@ tell application "Safari"
     activate
 end tell
 ```
+
+## 获取 Finder 窗口所在的目录并在 terminal 中进入对应的目录
+
+```applescript
+tell application "Finder" to set the myPath to (the target of the front window) as alias
+set myPath to POSIX path of myPath
+
+tell application "Terminal"
+    activate
+    do script ("cd " & quoted form of myPath)
+end tell
+```
