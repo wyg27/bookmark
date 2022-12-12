@@ -20,6 +20,7 @@
 * [昆虫记](https://www.99csw.com/book/9678/index.htm)
 * [西方伪科学种种](https://www.99csw.com/book/193/index.htm)
 * 笑傲江湖 https://www.99csw.com/book/2176/64105.htm
+* [侏儒的话](https://www.kanunu8.com/book3/7473/164046.html)
 
 ## Tools
 
