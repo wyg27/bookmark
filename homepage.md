@@ -238,6 +238,8 @@
 * 经验类文章可供收集 https://www.extrabux.com/chs/guide/p1
 * 家庭装修工具评测 https://breakingfreemediation.com
 * 冬季驾驶安全 https://icyroadsafety.com
+* https://quickbooks.ninja
+* https://quickbookexperts.com/Blog/
 
 ## 编程初学
 
