@@ -93,6 +93,7 @@
 
 ## 图片处理
 
+* 分享螢幕截圖和圖片的最簡單方法 https://snipboard.io
 * 图片转换为线稿 https://tech-lagoon.com/imagechef/zhcn/image-to-edge.html
 * 智能移除图片内容 https://www.magiceraser.io
 * 又一个移除图片 https://remover.zmo.ai
