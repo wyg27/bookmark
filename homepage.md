@@ -84,6 +84,7 @@
 * “快下” Mac 软件 https://vdownapp.com
 * 低端影视 https://ddys.tv/category/movie/
 * 爱壹帆 https://www.iyf.tv/
+* 小宝影院 https://xiaoheimi.net/
 
 ## 文件传递
 
