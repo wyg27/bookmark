@@ -243,6 +243,7 @@
 * 冬季驾驶安全 https://icyroadsafety.com
 * https://quickbooks.ninja
 * https://quickbookexperts.com/Blog/
+* https://www.lifewire.com
 
 ## 编程初学
 
