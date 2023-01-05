@@ -61,6 +61,10 @@
 
 * pbcopy/pbpaste，例如 `cat test.sh| pbcopy`
 
+## 服务托管
+
+* https://fly.io 服务没有那么优秀，但是性价比高，类似 AWS 的服务。
+
 ## 付费爬虫服务
 
 * https://webscraper.io （Chrome 扩展）
