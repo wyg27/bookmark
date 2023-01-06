@@ -5,6 +5,7 @@
 * https://htmx.org
 * https://knockoutjs.com
 * 别再用JS框架了, 原文《No more JS frameworks》https://coderlmn.github.io/frontEndCourse/nomoreJSF.html
+* Elixir https://elixirschool.com/en/lessons/basics/basics#installing-elixir-1
 
 ## 公司常用
 
