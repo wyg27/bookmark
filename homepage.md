@@ -36,6 +36,7 @@
 * 基于 Docker 的 http 模拟器 http://httpbin.org
 * 音频转换 https://cloudconvert.com
 * AI 写作 https://rytr.me
+* 中文 AI 写作 https://xiezuocat.com/
 * 讓 PDF 文件看起來像影印、掃描過的效果 https://lookscanned.io
 * 如何看懂 Linux 的 load 负载 https://www.tecmint.com/understand-linux-load-averages-and-monitor-performance/
 * 各种 IT 技术的安全注意事项 check list https://cheatsheetseries.owasp.org/cheatsheets/Laravel_Cheat_Sheet.html
