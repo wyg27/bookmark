@@ -18,6 +18,7 @@
 * 学习Lisp的书籍推荐 https://github.com/oldratlee/translations/blob/master/recommend-lisp-books/recommend-lisp-books.md
 * Successful Lisp https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/contents.html
 * https://lispcookbook.github.io/cl-cookbook/
+* MIT-Scheme 安装入门 https://segmentfault.com/a/1190000007556974
 
 ## 公司常用
 
