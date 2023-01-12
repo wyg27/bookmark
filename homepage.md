@@ -9,7 +9,7 @@
 
 ## Lisp 
 
-* https://lisp-lang.org/learn/first-steps
+* Lisp 的安装（配合 Emacs） https://lisp-lang.org/learn/getting-started/
 * Elixir https://elixirschool.com/en/lessons/basics/basics#installing-elixir-1
 * Lisp https://acl.readthedocs.io/en/latest/zhTW/ch1.html
 * 学习Lisp的书籍推荐 https://github.com/oldratlee/translations/blob/master/recommend-lisp-books/recommend-lisp-books.md
