@@ -7,6 +7,7 @@
 * 别再用JS框架了, 原文《No more JS frameworks》https://coderlmn.github.io/frontEndCourse/nomoreJSF.html
 * Elixir https://elixirschool.com/en/lessons/basics/basics#installing-elixir-1
 * Lisp https://acl.readthedocs.io/en/latest/zhTW/ch1.html
+* 学习Lisp的书籍推荐 https://github.com/oldratlee/translations/blob/master/recommend-lisp-books/recommend-lisp-books.md
 
 ## 公司常用
 
