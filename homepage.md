@@ -9,6 +9,7 @@
 
 ## Lisp 
 
+* https://gigamonkeys.com/book/
 * http://www.sbcl.org
 * https://quickdocs.org
 * Lisp 的安装（配合 Emacs） https://lisp-lang.org/learn/getting-started/
