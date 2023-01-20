@@ -31,3 +31,7 @@ services：
 2. 运行时参数
 
 `docker run -it --shm-size="1g" ubuntu`
+
+## 参考
+
+* How to Run PostgreSQL and pgAdmin Using Docker https://towardsdatascience.com/how-to-run-postgresql-and-pgadmin-using-docker-3a6a8ae918b5
