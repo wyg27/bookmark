@@ -14,6 +14,12 @@ docker run --rm php echo Hello World
 $ docker run --rm httpd:2.4 cat /usr/local/apache2/conf/httpd.conf > my-httpd.conf
 ```
 
+### 将 container 中的文件 copy 出来
+
+```shell
+$ docker cp [container name]:/etc/apache2/sites-available/000-default.conf .
+```
+
 ### Container 的共享内存设置
 
 创建 docker 的时候默认 shm 大小为64M，如果应用使用了比较大的shm，则很可能会崩溃。此时解决有2个办法：
