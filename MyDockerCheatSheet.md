@@ -6,6 +6,14 @@
 docker run --rm php echo Hello World
 ```
 
+### 用 container 中的 PHP 执行本地文件
+
+思路：将本地文件所在的目录映射的 container 内。
+
+```shell
+docker run -it --rm -v "$PWD":/tmp -w /tmp [image name] php hostfile.php
+```
+
 ### 将 container 中的某个文件 dump 出来
 
 来自 Apache 官方 https://hub.docker.com/_/httpd
