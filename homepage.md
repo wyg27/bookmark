@@ -45,6 +45,7 @@
 * cURL 范例 https://reqbin.com/curl
 * Webhook 模拟 https://webhook.site/
 * 英文语法检查 https://writer.com/grammar-checker/
+* 英文语法检查 https://wordvice.ai/cn/proofreading/guest
 * 文字自动补全 https://espanso.org
 * 基于 Docker 的 http 模拟器 http://httpbin.org
 * 音频转换 https://cloudconvert.com
