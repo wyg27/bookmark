@@ -107,6 +107,7 @@
 * 低端影视 https://ddys.tv/category/movie/
 * 爱壹帆 https://www.iyf.tv/
 * 小宝影院 https://xiaoheimi.net/
+* 神探可伦坡 https://www.meiju.run/Play/8250-0-0.html
 
 ## 文件传递
 
