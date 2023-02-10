@@ -44,7 +44,8 @@
 * SQL 格式化 https://www.dpriver.com/pp/sqlformat.htm
 * CronTab 配置生成器 https://crontab-generator.org
 * cURL 范例 https://reqbin.com/curl
-* Webhook 模拟 https://webhook.site/
+* Webhook 模拟（看不到自定义 header） https://webhook.site/
+* webhook 模拟（能看到全部 header）https://requestcatcher.com
 * 英文语法检查 https://writer.com/grammar-checker/
 * 英文语法检查 https://wordvice.ai/cn/proofreading/guest
 * 文字自动补全 https://espanso.org
