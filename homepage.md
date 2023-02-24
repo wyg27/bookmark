@@ -7,6 +7,9 @@
 * 别再用JS框架了, 原文《No more JS frameworks》https://coderlmn.github.io/frontEndCourse/nomoreJSF.html
 * https://cloudmessage.top/archives/golang-文件变化监控md
 
+## 业务代码优化
+
+* 如何写出一手好的业务代码？https://cloud.tencent.com/developer/article/1859029
 
 ## Lisp 
 
