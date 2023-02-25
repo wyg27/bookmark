@@ -13,7 +13,8 @@
 
 ## TCL
 
-2022年的Tcl编程语言入门参考 1:语法 https://www.bilibili.com/read/cv15994134?from=articleDetail
+* 2022年的Tcl编程语言入门参考 1:语法 https://www.bilibili.com/read/cv15994134?from=articleDetail
+* TCL脚本语言的学习（一）https://guodongblog.com/posts/eed5d1af4b43/
 
 ## Lisp 
 
