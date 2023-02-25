@@ -11,6 +11,10 @@
 
 * 如何写出一手好的业务代码？https://cloud.tencent.com/developer/article/1859029
 
+## TCL
+
+2022年的Tcl编程语言入门参考 1:语法 https://www.bilibili.com/read/cv15994134?from=articleDetail
+
 ## Lisp 
 
 * https://gigamonkeys.com/book/
