@@ -18,6 +18,8 @@
 * https://www.tcl.tk/man/tcl8.5/tutorial/tcltutorial.html
 * 2022年的Tcl编程语言入门参考 1:语法 https://www.bilibili.com/read/cv15994134?from=articleDetail
 * TCL脚本语言的学习（一）https://guodongblog.com/posts/eed5d1af4b43/
+* 为什么说Tcl是最好的语言 https://blog.51cto.com/u_12981117/1932023
+* TK框架GUI编程的基本思路 https://blog.hszofficial.site/TutorialForPython/输入输出篇/人机交互/GUI/TK框架GUI编程的基本思路.html
 
 ## Lisp 
 
