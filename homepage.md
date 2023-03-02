@@ -12,6 +12,11 @@
 
 * 如何写出一手好的业务代码？https://cloud.tencent.com/developer/article/1859029
 
+## Sed 命令
+
+* 很清晰的简明教程 https://wangchujiang.com/linux-command/c/sed.html
+* MacOS与Linux中sed的不同，可以用homebrew下载gnu-sed。
+
 ## TCL
 
 * https://wiki.tcl-lang.org/page/Tcl+Tutorial+Index
