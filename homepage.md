@@ -18,6 +18,10 @@
 * 很清晰的简明教程 https://wangchujiang.com/linux-command/c/sed.html
 * MacOS与Linux中sed的不同，可以用homebrew下载gnu-sed。
 
+## 汇编
+
+* https://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html#
+* 
 ## TCL
 
 * https://wiki.tcl-lang.org/page/Tcl+Tutorial+Index
