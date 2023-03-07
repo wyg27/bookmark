@@ -7,6 +7,7 @@
 * 别再用JS框架了, 原文《No more JS frameworks》https://coderlmn.github.io/frontEndCourse/nomoreJSF.html
 * https://cloudmessage.top/archives/golang-文件变化监控md
 * 数学乐 https://www.shuxuele.com/index.html
+* C# https://learn.microsoft.com/en-us/training/modules/csharp-write-first/2-exercise-hello-world
 
 ## 业务代码优化
 
