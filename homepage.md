@@ -89,6 +89,7 @@
 * 區塊鏈建立永久保存的網頁畫面備份和截圖 https://www.archiveforever.xyz
 * 加拿大法定节假日 https://www.timeanddate.com/holidays/canada/2023
 * 各种收费 API 的集合 https://apilayer.com
+* HTML 清理 https://www.htmlwasher.com
 
 ## Music
 
