@@ -90,6 +90,7 @@
 * 加拿大法定节假日 https://www.timeanddate.com/holidays/canada/2023
 * 各种收费 API 的集合 https://apilayer.com
 * HTML 清理 https://www.htmlwasher.com
+* AI 生成图片 https://stablediffusionweb.com/
 
 ## Music
 
