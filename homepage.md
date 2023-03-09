@@ -91,6 +91,7 @@
 * 各种收费 API 的集合 https://apilayer.com
 * HTML 清理 https://www.htmlwasher.com
 * AI 生成图片 https://stablediffusionweb.com/
+* macOS 上的软件 joyfusion 可以 AI 生成图片
 
 ## Music
 
