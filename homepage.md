@@ -104,6 +104,10 @@
 * Take It Easy Rock 摇滚合集 https://www.youtube.com/watch?v=yYcyacLRPNs&list=RDCLAK5uy_mfut9V_o1n9nVG_m5yZ3ztCif29AHUffI&start_radio=1&rv=vGJTaP6anOU
 * [Frank Sinatra, Nat King Cole, Dean Martin - Best Songs Collection 2022](https://www.youtube.com/watch?v=z3qqY7o0Odc)
 
+## 英语听力
+
+* 15小时短句 https://www.youtube.com/watch?v=lDwbTo0jSg4&t=2915s
+
 ## macOS 提示
 
 * pbcopy/pbpaste，例如 `cat test.sh| pbcopy`
