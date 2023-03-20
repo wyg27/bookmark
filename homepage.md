@@ -236,6 +236,7 @@
 * 《C 语言教程》https://wangdoc.com/clang/index.html
 * 《MUD游戏编程 By 彭顿》https://www.amazon.ca/MUD-Game-Programming-Ron-Penton/dp/1592000908
 * 开源 log 工具 https://github.com/tstack/lnav
+* Chrome 浏览器离线小恐龙游戏的 copy https://github.com/farbodahm/chrome-dinosaur
 
 ## AppleScript
 
