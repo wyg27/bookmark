@@ -237,6 +237,7 @@
 * 《MUD游戏编程 By 彭顿》https://www.amazon.ca/MUD-Game-Programming-Ron-Penton/dp/1592000908
 * 开源 log 工具 https://github.com/tstack/lnav
 * Chrome 浏览器离线小恐龙游戏的 copy https://github.com/farbodahm/chrome-dinosaur
+* 开源地下城游戏 https://github.com/angband/angband
 
 ## AppleScript
 
