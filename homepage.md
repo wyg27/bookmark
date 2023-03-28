@@ -9,6 +9,10 @@
 * 数学乐 https://www.shuxuele.com/index.html
 * C# https://learn.microsoft.com/en-us/training/modules/csharp-write-first/2-exercise-hello-world
 
+## ChatGPT 提示语
+
+* ChatGPT 提示语大全 https://github.com/jevantang/chatgpt-prompts
+
 ## 业务代码优化
 
 * 如何写出一手好的业务代码？https://cloud.tencent.com/developer/article/1859029
