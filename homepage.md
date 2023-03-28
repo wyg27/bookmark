@@ -310,6 +310,7 @@
 * https://quickbooks.ninja
 * https://quickbookexperts.com/Blog/
 * https://www.lifewire.com
+* https://www.customguide.com/quick-reference?utm_source=qr&utm_medium=pdf&utm_campaign=qr-ref （各种日常软件的 cheat sheet）
 
 ## 编程初学
 
