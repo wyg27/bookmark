@@ -312,6 +312,7 @@
 * https://quickbookexperts.com/Blog/
 * https://www.lifewire.com
 * https://www.customguide.com/quick-reference?utm_source=qr&utm_medium=pdf&utm_campaign=qr-ref （各种日常软件的 cheat sheet）
+* https://midogguide.com/zh-TW/疾病/狗認為吱吱作響的玩具還活著嗎.html
 
 ## 编程初学
 
