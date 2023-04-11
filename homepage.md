@@ -69,6 +69,7 @@
 
 ## Tools
 
+* JS 格式化 https://js-formatter.com
 * AI 生成正则表达式 https://regex.ai
 * 繁化姬：自動繁簡轉換工具 https://zhconvert.org
 * SQL 格式化 https://www.dpriver.com/pp/sqlformat.htm
