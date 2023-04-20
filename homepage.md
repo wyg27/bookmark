@@ -27,6 +27,10 @@
 * https://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html#
 * 一款练习汇编的神器——DosBox https://blog.51cto.com/u_13875041/5877801
 
+## Node.js
+
+* exports的用法：Node.js模块的接口设计模式 https://gywbd.github.io/posts/2014/11/using-exports-nodejs-interface-design-pattern.html
+
 ## TCL
 
 * https://wiki.tcl-lang.org/page/Tcl+Tutorial+Index
