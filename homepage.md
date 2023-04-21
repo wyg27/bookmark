@@ -27,6 +27,7 @@
 * https://highered.mheducation.com/sites/0072467509/student_view0/lc-3_simulator.html#
 * 一款练习汇编的神器——DosBox https://blog.51cto.com/u_13875041/5877801
 * http://www.6502.org
+* https://www.nesdev.org
 
 ## SQL
 
