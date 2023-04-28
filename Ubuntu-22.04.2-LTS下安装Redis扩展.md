@@ -1,3 +1,5 @@
+# Ubuntu 22.04.2 LTS 下安装 Redis 扩展
+
 ## 背景
 
 * 操作系统：Ubuntu 22.04.2 LTS
