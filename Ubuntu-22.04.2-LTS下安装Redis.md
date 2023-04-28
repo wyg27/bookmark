@@ -76,7 +76,7 @@ extension=/usr/lib/php/20210902/redis.so
 然后重启 apache 服务：
 
 ```shell
-sudo systemctl restart apache2
+$ sudo systemctl restart apache2
 ```
 
 之后，可以在一个 PHP 页面中调用 `phpinfo()`，然后看看在输出的结果中能否看见“redis”这个区块。如果能看见就表示安装成功了。
