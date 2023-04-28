@@ -80,3 +80,7 @@ $ sudo systemctl restart apache2
 ```
 
 之后，可以在一个 PHP 页面中调用 `phpinfo()`，然后看看在输出的结果中能否看见“redis”这个区块。如果能看见就表示安装成功了。
+
+## 参考
+
+* https://www.runoob.com/redis/redis-php.html
