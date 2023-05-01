@@ -329,6 +329,7 @@
 * https://www.irs.gov/zh-hans/tax-professionals/choosing-a-tax-professional 美国联邦税务局中文版
 * https://www.huarenjie.com 欧洲网站，应该收集里面的常见问题。
 * https://www.huangye.fr/list/zai-fa-sheng-huo/page/13 法国人黄页
+* https://bbs.xineurope.com/thread-2539802-1-5.html 法国及欧洲境内如何报警？求助电话合集请收藏
 * 老人用品评测
 * https://www.mychoice.ca/blog/ 安省汽车保险相关知识
 
