@@ -338,6 +338,7 @@
 * 英文法律常识/案例
 * https://www.tsa.gov 美国安全运输管理局
 * https://www.cbp.gov 美国海关
+* https://www.rcmp-grc.gc.ca/en/firearms 加拿大枪支管理
 
 ## 编程初学
 
