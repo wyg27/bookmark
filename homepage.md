@@ -108,6 +108,7 @@
 * 加拿大法定节假日 https://www.timeanddate.com/holidays/canada/2023
 * 各种收费 API 的集合 https://apilayer.com
 * HTML 清理 https://www.htmlwasher.com
+* HTML 预览 https://htmlcodeeditor.com
 * AI 生成图片 https://stablediffusionweb.com/
 * 将 JPEG 和 PNG 位图转换为 SVG 矢量图 https://vectorizer.ai
 * macOS 上的软件 joyfusion 可以 AI 生成图片
