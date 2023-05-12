@@ -142,6 +142,7 @@
 * https://academy.parsehub.com （Desktop）
 * https://simplescraper.io/#pricing （Chrome 扩展）
 * https://github.com/crwlrsoft/crawler （PHP 爬虫库）
+* https://brightdata.com （以色列顶级商业爬虫）
 
 ## Games
 
