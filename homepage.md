@@ -127,6 +127,7 @@
 ## 英语听力
 
 * 15小时短句 https://www.youtube.com/watch?v=lDwbTo0jSg4&t=2915s
+* AI 聊天 https://heypi.com/talk
 
 ## macOS 提示
 
