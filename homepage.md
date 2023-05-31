@@ -343,6 +343,7 @@
 * https://www.cbp.gov 美国海关
 * https://www.rcmp-grc.gc.ca/en/firearms 加拿大枪支管理
 * https://www.heartandstroke.ca/articles/what-is-ultra-processed-food ultra processed foods
+* emoji https://emojiterra.com/emojis/arrow/
 
 ## 编程初学
 
