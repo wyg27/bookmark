@@ -344,6 +344,7 @@
 * https://www.rcmp-grc.gc.ca/en/firearms 加拿大枪支管理
 * https://www.heartandstroke.ca/articles/what-is-ultra-processed-food ultra processed foods
 * emoji https://emojiterra.com/emojis/arrow/
+* 一些关于美国的数字 https://usafacts.org/topics/crime-justice/ （搜索 “facts databas“得到的）
 
 ## 编程初学
 
