@@ -2,6 +2,28 @@
 
 * https://www.netlify.com
 * AI 写作 https://rytr.me
+  - Appreciative
+  - Assertive 欣赏的
+  - Awestruck 断言的
+  - Candid 坦率
+  - Casual 随意的
+  - Cautionary 注意事项
+  - Compassionate 富有同情心
+  - Convincing 令人信服
+  - Critical 批判的
+  - Earnest 认真
+  - Enthusiastic 热情的
+  - Formal 正式的
+  - Funny 有趣的
+  - Humble 谦逊的
+  - Humorous 幽默
+  - Informative 内容丰富
+  - Inspirational 励志
+  - Joyful 快乐
+  - Passionate 热情的
+  - Thoughtful 周到
+  - Urgent 紧迫的
+  - Worried 担心
 
 ## 自学进程
 
