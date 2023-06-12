@@ -1,3 +1,8 @@
+## 每天用到
+
+* https://www.netlify.com
+* AI 写作 https://rytr.me
+
 ## 自学进程
 
 * [https://www.educative.io/courses/getting-started-sql-relational-databases/qA7KvRoMgX0](https://www.educative.io/courses/database-design-fundamentals/qVBkXw7kGw0)
