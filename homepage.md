@@ -373,6 +373,7 @@
 * https://www.heartandstroke.ca/articles/what-is-ultra-processed-food ultra processed foods
 * emoji https://emojiterra.com/emojis/arrow/
 * 一些关于美国的数字 https://usafacts.org/topics/crime-justice/ （搜索 “facts databas“得到的）
+* 一个乌克兰论坛，讨论移民 https://forum.chemodan.com.ua/
 
 ## 编程初学
 
