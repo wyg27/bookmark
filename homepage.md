@@ -155,6 +155,7 @@
 
 * 15小时短句 https://www.youtube.com/watch?v=lDwbTo0jSg4&t=2915s
 * AI 聊天 https://heypi.com/talk
+* 查询单词的搭配 https://skell.sketchengine.eu/#home?lang=en
 
 ## macOS 提示
 
