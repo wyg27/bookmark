@@ -155,7 +155,8 @@
 
 * 15小时短句 https://www.youtube.com/watch?v=lDwbTo0jSg4&t=2915s
 * AI 聊天 https://heypi.com/talk
-* 查询单词的搭配 https://skell.sketchengine.eu/#home?lang=en
+* 查询单词的搭配 & 看到单词的流行程度 https://skell.sketchengine.eu/#home?lang=en
+* 查询单词的搭配 https://ozdic.com/collocation/suffer
 
 ## macOS 提示
 
