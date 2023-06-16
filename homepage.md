@@ -375,6 +375,7 @@
 * emoji https://emojiterra.com/emojis/arrow/
 * 一些关于美国的数字 https://usafacts.org/topics/crime-justice/ （搜索 “facts databas“得到的）
 * 一个乌克兰论坛，讨论移民 https://forum.chemodan.com.ua/
+* 好玩的测试游戏 https://freequizgames.com
 
 ## 编程初学
 
