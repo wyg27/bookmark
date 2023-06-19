@@ -163,6 +163,7 @@
 
 * pbcopy/pbpaste，例如 `cat test.sh| pbcopy`
 * Intel 开发的“护眼”字体 https://github.com/intel/intel-one-mono/releases
+* 桌面版图片压缩 https://tuya.xinxiao.tech
 
 ## 服务托管
 
