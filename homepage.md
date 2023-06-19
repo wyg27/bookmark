@@ -162,6 +162,7 @@
 ## macOS 提示
 
 * pbcopy/pbpaste，例如 `cat test.sh| pbcopy`
+* Intel 开发的“护眼”字体 https://github.com/intel/intel-one-mono/releases
 
 ## 服务托管
 
