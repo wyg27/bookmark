@@ -119,6 +119,7 @@
 * cURL 范例 https://reqbin.com/curl
 * Webhook 模拟（看不到自定义 header） https://webhook.site/
 * webhook 模拟（能看到全部 header）https://requestcatcher.com
+* 从其它国家的主机访问特定 URL https://semonto.com/tools/website-reachability-check?test=5c5dcba37b7ea2
 * 英文语法检查 https://writer.com/grammar-checker/
 * 英文语法检查 https://wordvice.ai/cn/proofreading/guest
 * 文字自动补全 https://espanso.org
