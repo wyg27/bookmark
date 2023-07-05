@@ -203,6 +203,7 @@
 * 神探可伦坡 https://www.meiju.run/Play/8250-0-0.html
 * https://www.o8tv.com
 * https://www.dyg123.net/ 电影港
+* MPMux 免費瀏覽器外掛，將 M3u8 串流影音下載、轉檔 MP4 格式 https://chrome.google.com/webstore/detail/video-downloader-professi/iikjcbakondakcbblkccdmiaiklnddke/related
 
 ## 文件传递
 
