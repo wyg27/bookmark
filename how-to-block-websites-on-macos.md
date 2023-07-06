@@ -31,6 +31,46 @@ load anchor "org.yiguowang.pf" from "/etc/pf.anchors/org.yiguowang.pf.rules"
 
 ## 步骤2
 
+在目录 `/etc/pf.anchors` 下创建名为 `org.yiguowang.pf.rules`的文件（见步骤1）。文件的内容是：
+
+```
+block drop out quick from any to baidu.com
+block drop out quick from any to cctv.com
+```
+这两条规则屏蔽了两个我最讨厌的网站，请根据你的需要进行修改。
+
+## 步骤3
+
+执行命令 `sudo pfctl -v -n -f /etc/custom_pf.conf`。如果执行的结果是报错，说明 `custom_pf.conf` 或 `/etc/pf.anchors/org.yiguowang.pf.rules` 中的内容格式错误，请检查并修改；直至命令顺利执行。
+
+## 步骤4
+
+最后一步就是让 pf 在每次电脑开机时都自动加载我们自定义的规则。
+
+进入目录 `cd /Library/LaunchDaemons`，创建一个文件 `org.custom-pf-conf.startup.plist`（文件名随意起，后缀是 plist 就行）。文件内容如下：
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>             <string>org.custom-pf-conf.startup</string>
+    <key>Disabled</key>          <false/>
+    <key>RunAtLoad</key>         <true/>
+    <key>KeepAlive</key>         <false/>
+    <key>LaunchOnlyOnce</key>    <true/>
+    <key>ProgramArguments</key>
+        <array>
+            <string>/sbin/pfctl</string>
+            <string>-e</string>
+            <string>-f</string>
+            <string>/etc/pf.anchors/org.yiguowang.pf.conf</string>
+        </array>
+</dict>
+</plist>
+```
+上述配置中，你只需要修改 `<string>/etc/pf.anchors/org.yiguowang.pf.conf</string>` 中的路径就行了。
+
 ## 参考
 
 * https://blog.scottlowe.org/2013/05/15/using-pf-on-os-x-mountain-lion/
