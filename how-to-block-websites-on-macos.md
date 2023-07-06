@@ -71,6 +71,20 @@ block drop out quick from any to cctv.com
 ```
 上述配置中，你只需要修改 `<string>/etc/pf.anchors/org.yiguowang.pf.conf</string>` 中的路径就行了。
 
+到此，pf 的配置就结束了。目前，我们只是利用 pf 来屏蔽讨厌的网站，其实它的功能远不止这些，如果有兴趣可以自行探索。
+
+## 修改 pf 配置文件后如何让新规则生效？
+
+修改 pf 的配置文件后，只需要执行下列两条命令即可：
+
+```
+# 停用 pf
+sudo pfctl -d
+
+## 启动 pf
+sudo pfctl -e
+```
+
 ## 参考
 
 * https://blog.scottlowe.org/2013/05/15/using-pf-on-os-x-mountain-lion/
