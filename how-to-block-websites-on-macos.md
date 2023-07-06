@@ -75,15 +75,14 @@ block drop out quick from any to cctv.com
 
 ## 修改 pf 配置文件后如何让新规则生效？
 
-修改 pf 的配置文件后，只需要执行下列两条命令即可：
+修改 pf 的配置文件后，只需要执行下列命令即可：
 
 ```
-# 停用 pf
-sudo pfctl -d
-
-## 启动 pf
-sudo pfctl -e
+sudo pfctl -f /etc/custom_pf.conf
 ```
+这条命令告诉 pfctl（pf 控制工具）读取配置文件 `/etc/custom_pf.conf` 中的规则，并将其应用到当前的 pf 配置中。这样，你就可以更新 pf 的规则并使其生效。
+
+请注意，在重新加载规则之前，确保你已经保存了修改后的配置文件。如果在配置文件中存在语法错误，pfctl 将不会加载新的规则，并显示相应的错误消息。在这种情况下，你需要修复错误，并重新运行上述命令。
 
 ## 参考
 
