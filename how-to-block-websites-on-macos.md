@@ -1,6 +1,6 @@
 # 如何利用 macOS 内置的 pf 程序屏蔽网站或广告
 
-## 关于 pf 程序
+## 关于 pf
 
 > `pf` 是 macOS（以及其他类似基于 BSD 的操作系统）中的一个内置软件包过滤器，它是一种功能强大的网络包过滤工具。`pf` 的全称是 Packet Filter，它提供了防火墙、网络地址转换（NAT）和网络流量控制的功能。
 >
@@ -9,6 +9,8 @@
 > `pf` 使用一个配置文件（通常是 `/etc/pf.conf`），你可以在其中定义规则和选项。配置文件中的规则可以基于源地址、目标地址、端口号、协议类型等进行过滤和匹配。你可以通过编辑配置文件来自定义 `pf` 的行为，并使用命令行工具来加载和激活配置。
 >
 > 要了解更多关于 `pf` 的信息，你可以在终端中输入 `man pfctl` 查看 `pfctl` 的手册页，或者参考苹果的官方文档。
+
+## 配置 pf 
  
 首先，确保在 `/etc` 目录下有文件 `/etc/pf.conf` 和目录 `/etc/pf.anchors`。
 
@@ -19,7 +21,7 @@
 
 所以，请遵循以下步骤；在每个步骤中，我会说明为什么要这么做。（注：每一步中的操作都需要用 `root` 账号来完成，也就是使用 `sudo` 命令。）
 
-## 步骤1
+### 步骤1
 
 在目录 `/etc` 下创建一个新文件，文件名可以随意起，我喜欢的文件名是 `custom_pf.conf`。这个文件用于代替默认的配置文件 `pf.conf`。新文件的内容如下：
 
@@ -29,7 +31,7 @@ load anchor "org.yiguowang.pf" from "/etc/pf.anchors/org.yiguowang.pf.rules"
 ```
 内容中的 `org.yiguowang.pf` 可以换成任何你喜欢的字符串，它的作用只是一个“label“。重要的是 `/etc/pf.anchors/org.yiguowang.pf.rules` 这个文件路径，该文件用来存放我们需要过滤规则。
 
-## 步骤2
+### 步骤2
 
 在目录 `/etc/pf.anchors` 下创建名为 `org.yiguowang.pf.rules`的文件（见步骤1）。文件的内容是：
 
@@ -39,11 +41,11 @@ block drop out quick from any to cctv.com
 ```
 这两条规则屏蔽了两个我最讨厌的网站，请根据你的需要进行修改。
 
-## 步骤3
+### 步骤3
 
 执行命令 `sudo pfctl -v -n -f /etc/custom_pf.conf`。如果执行的结果是报错，说明 `custom_pf.conf` 或 `/etc/pf.anchors/org.yiguowang.pf.rules` 中的内容格式错误，请检查并修改；直至命令顺利执行。
 
-## 步骤4
+### 步骤4
 
 最后一步就是让 pf 在每次电脑开机时都自动加载我们自定义的规则。
 
