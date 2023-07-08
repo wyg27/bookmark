@@ -158,6 +158,7 @@
 
 ## 英语听力
 
+* 每天一遍，聽懂美國人每一句 https://www.youtube.com/watch?v=USt5BeZp9Qs
 * 15小时短句 https://www.youtube.com/watch?v=lDwbTo0jSg4&t=2915s
 * AI 聊天 https://heypi.com/talk
 * 查询单词的搭配 & 看到单词的流行程度 https://skell.sketchengine.eu/#home?lang=en
