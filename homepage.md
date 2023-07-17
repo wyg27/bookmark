@@ -24,6 +24,7 @@
   - Thoughtful 周到
   - Urgent 紧迫的
   - Worried 担心
+* 文字转语音 https://ttsmaker.com/zh-cn （1508 - Fei 阿飞-热门通用/播音男声）
 
 ## 自学进程
 
