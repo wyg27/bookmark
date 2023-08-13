@@ -146,6 +146,7 @@
 * AI 生成图片 https://stablediffusionweb.com/
 * 将 JPEG 和 PNG 位图转换为 SVG 矢量图 https://vectorizer.ai
 * macOS 上的软件 joyfusion 可以 AI 生成图片
+* 下载 YouTube 为 mp3 https://musicdownload.zone/
 
 ## Music
 
