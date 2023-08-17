@@ -1,6 +1,7 @@
 ## 每天用到
 
 * https://www.netlify.com
+* AI 写作 https://type.ai
 * AI 写作 https://rytr.me
   - Appreciative
   - Assertive 欣赏的
@@ -306,6 +307,7 @@
 * 开源 log 工具 https://github.com/tstack/lnav
 * Chrome 浏览器离线小恐龙游戏的 copy https://github.com/farbodahm/chrome-dinosaur
 * 开源地下城游戏 https://github.com/angband/angband
+* 免费、开源、P2P、不限量，用 Transfer.zip 传输任意大小文件，不限速 https://github.com/robinkarlberg/transfer.zip-web
 
 ## AppleScript
 
