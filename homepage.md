@@ -149,6 +149,7 @@
 * macOS 上的软件 joyfusion 可以 AI 生成图片
 * 下载 YouTube 为 mp3 https://musicdownload.zone/
 * m4a 转换 mp3 https://cloudconvert.com/m4a-to-mp3
+* Savesubs 線上下載 YouTube 影片字幕 SRT 還能翻譯為繁體中文 https://savesubs.com/zh
 
 ## Music
 
