@@ -4,6 +4,7 @@
 * AI 写作 https://type.ai
 * 生成 HTML 列表 https://www.textfixer.com/html/html-list-generator.php
 * HTML 清理 https://www.htmlwasher.com
+* HTML formatter https://www.freeformatter.com/html-formatter.html
 
 ## 自学进程
 
