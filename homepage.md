@@ -7,6 +7,7 @@
 * HTML formatter https://www.freeformatter.com/html-formatter.html
 * Markdown to HTML https://markdowntohtml.com
 * PDF to HTML https://xodo.com/convert-pdf-to-html
+* 简繁转换 https://github.com/BYVoid/OpenCC
 
 ## 自学进程
 
