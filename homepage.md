@@ -8,6 +8,7 @@
 * Markdown to HTML https://markdowntohtml.com
 * PDF to HTML https://xodo.com/convert-pdf-to-html
 * 简繁转换 https://github.com/BYVoid/OpenCC
+* AI 图库（全免费，无版权，网友分享）https://unrealimages.com/categories
 
 ## 自学进程
 
