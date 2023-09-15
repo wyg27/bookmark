@@ -78,7 +78,7 @@
 ## 公司常用
 
 * 工资单 https://workforcenow.adp.com/theme/index.html (UserId: w***7)
-* 邮箱 https://portal.office.com
+* 邮箱 [https://portal.office.com](https://outlook.office.com/mail/)
 
 ## 电子书
 
