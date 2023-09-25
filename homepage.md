@@ -1,3 +1,7 @@
+## 尽快阅读和整理
+
+* https://zq99299.github.io/mysql-tutorial/ali-new-retail/05/06.html#读多写少
+
 ## 每天用到
 
 * https://www.netlify.com
