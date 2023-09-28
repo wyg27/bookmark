@@ -52,10 +52,14 @@
 ## Node.js
 
 * exports的用法：Node.js模块的接口设计模式 https://gywbd.github.io/posts/2014/11/using-exports-nodejs-interface-design-pattern.html
+* Effective Engineer - Notes https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f
+* 33-js-concepts https://github.com/leonardomso/33-js-concepts
+* 《10 Github repositories to achieve Javascript mastery》https://dev.to/novu/10-github-repositories-to-achieve-javascript-mastery-50hk
 
 ## JavaScript 类库
 
 * https://github.com/apache/echarts 和它的用例收集站点 http://ppchart.com/
+* Awesome JavaScript https://github.com/sorrycc/awesome-javascript
 
 ## TCL
 
