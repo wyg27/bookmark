@@ -62,10 +62,13 @@ cat your_file.txt | xargs -I {} git push origin :{}
 
 上面的命令是能够完成任务的，但如果你觉得 xargs -I {} git push origin :{} 部分不太好理解，也可以参考并替换为下面2种写法：
 
-# No.1
+No.1
+
 git push -d <remote_name> <branchname>
 
-# No.2
+
+No.2
+
 git branch -d <branchname>
 
 # Note: In most cases, <remote_name> will be "origin".
