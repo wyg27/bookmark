@@ -24,6 +24,7 @@
 * https://cloudmessage.top/archives/golang-文件变化监控md
 * 数学乐 https://www.shuxuele.com/index.html
 * C# https://learn.microsoft.com/en-us/training/modules/csharp-write-first/2-exercise-hello-world
+* 《程序员的数学》https://github.com/wyg27/boutique-books/tree/master/b01-数学
 
 ## ChatGPT 提示语
 
