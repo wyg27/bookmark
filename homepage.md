@@ -1,6 +1,7 @@
 ## 尽快阅读和整理
 
 * https://zq99299.github.io/mysql-tutorial/ali-new-retail/05/06.html#读多写少
+* 一个 Go 的项目教程 https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
 
 ## 每天用到
 
