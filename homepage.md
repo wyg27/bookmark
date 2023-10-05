@@ -195,6 +195,7 @@
 * Basic Games http://www.vintage-basic.net/index.html
 * 儿童将棋 https://www.nintendo.com/en-ca/store/products/dobutsu-shogi-world-switch/
 * 开源游戏集合 https://github.com/Trilarion/opensourcegames
+* * 开源游戏合集2 https://osgameclones.com
 * 允许你运行 DOS 老游戏 https://www.scummvm.org
 * https://www.oldmanemu.net/掌机游戏/nds/nds中文游戏全集
 
