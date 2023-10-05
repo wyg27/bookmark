@@ -15,6 +15,7 @@
 * PDF to HTML https://xodo.com/convert-pdf-to-html
 * 简繁转换 https://github.com/BYVoid/OpenCC
 * AI 图库（全免费，无版权，网友分享）https://unrealimages.com/categories
+* YouTube 语音转换为文本 https://huggingface.co/spaces/sanchit-gandhi/whisper-jax （支持中文）
 
 ## 自学进程
 
