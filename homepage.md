@@ -6,6 +6,7 @@
 * Go 基础教程（为了练习听力）https://www.youtube.com/watch?v=etSN4X_fCnM&list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM
 * Laravel 开发 API https://youtu.be/YGqCZjdgJJk?si=PCboEuRxG--XwwbT&t=4984
 * Laravel 入门（为了练习听力）https://www.youtube.com/watch?v=AGE3wRKljkw&list=PLgGbWId6zgaUb1xaVnQ1y4axVvk4ufFMd&index=3
+* Build Data Table with Livewire 3 for beginners https://youtu.be/HOo2vtn37i0?si=hGYZs7uVP4PT54TQ&t=441
 * 书格 https://www.shuge.org/collection/photographs/
   
 
