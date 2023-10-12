@@ -37,6 +37,7 @@
 * C# https://learn.microsoft.com/en-us/training/modules/csharp-write-first/2-exercise-hello-world
 * 《程序员的数学》https://github.com/wyg27/boutique-books/tree/master/b01-数学
 * 编程书籍 https://awesome-programming-books.github.io
+* 品读 Linux 0.11 核心代码 https://github.com/dibingfa/flash-linux0.11-talk
 
 ## ChatGPT 提示语
 
