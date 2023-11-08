@@ -315,6 +315,7 @@
 * Chrome 浏览器离线小恐龙游戏的 copy https://github.com/farbodahm/chrome-dinosaur
 * 开源地下城游戏 https://github.com/angband/angband
 * 免费、开源、P2P、不限量，用 Transfer.zip 传输任意大小文件，不限速 https://github.com/robinkarlberg/transfer.zip-web
+* 重回 IRC 时代：smallchat。想知道一个 IRC 时代的聊天室是怎么做的么？smallchat 一个多人在线聊天小应用，带你实操下做个聊天工具。而油管的这个视频则带你了解这么一个小工具是如何设计，以及实现的。https://github.com/antirez/smallchat
 
 ## Go
 
