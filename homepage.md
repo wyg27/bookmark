@@ -8,6 +8,7 @@
 * Laravel 入门（为了练习听力）https://youtu.be/AGE3wRKljkw?si=q5hzTSubib5n_DpH&t=5414
 * Build Data Table with Livewire 3 for beginners https://youtu.be/HOo2vtn37i0?si=hGYZs7uVP4PT54TQ&t=441
 * 书格 https://www.shuge.org/collection/photographs/
+* 计算机的主要算法 https://qph.cf2.quoracdn.net/main-qimg-b9e16a4ae244aa60fb67b5f5323a9c65-c
   
 
 ## 每天用到
