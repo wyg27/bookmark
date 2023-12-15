@@ -23,6 +23,7 @@
 * 简繁转换 https://github.com/BYVoid/OpenCC
 * AI 图库（全免费，无版权，网友分享）https://unrealimages.com/categories
 * YouTube 语音转换为文本 https://huggingface.co/spaces/sanchit-gandhi/whisper-jax （支持中文）
+* AI 作图 https://visualelectric.com
 * AI YouTube 视频模版 https://pictory.ai
 * AI YouTube 关键字优化 https://vidiq.com
 
