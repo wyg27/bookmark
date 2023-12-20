@@ -421,6 +421,11 @@
 
 * https://github.com/RohithSrk/Quizzy
 
+## IDE 
+
+* Small and Big Typhon IDE https://www.pilotlogic.com/
+* Free Pascal https://www.lazarus-ide.org/index.php?page=downloads
+
 ## 电影
 
 * Pawn Sacrifice (出棋制勝) https://www.nunuyy1.org/dianying/70307.html
