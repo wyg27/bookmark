@@ -425,6 +425,7 @@
 
 * Small and Big Typhon IDE https://www.pilotlogic.com/
 * Free Pascal https://www.lazarus-ide.org/index.php?page=downloads
+* https://www.delphitools.info
 
 ## 电影
 
