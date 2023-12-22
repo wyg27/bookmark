@@ -9,6 +9,7 @@
 * Build Data Table with Livewire 3 for beginners https://youtu.be/HOo2vtn37i0?si=hGYZs7uVP4PT54TQ&t=441
 * 书格 https://www.shuge.org/collection/photographs/
 * 计算机的主要算法 https://qph.cf2.quoracdn.net/main-qimg-b9e16a4ae244aa60fb67b5f5323a9c65-c
+* PWD https://developer.mozilla.org/zh-CN/docs/Web/Progressive_web_apps/Guides/Offline_and_background_operation
   
 
 ## 每天用到
