@@ -100,6 +100,7 @@
 * Successful Lisp https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/contents.html
 * https://lispcookbook.github.io/cl-cookbook/
 * MIT-Scheme 安装入门 https://segmentfault.com/a/1190000007556974
+* Lisp的本质(The Nature of Lisp)学习思考 https://cloud.tencent.com/developer/article/1036294
 
 ## 公司常用
 
