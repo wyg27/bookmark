@@ -1,5 +1,6 @@
 ## 尽快阅读和整理
 
+* 在 Laravel 中不一定需要用 Repository，参考开源论坛 https://github.com/summerblue/news.laravel-china.org/tree/master
 * https://zq99299.github.io/mysql-tutorial/ali-new-retail/05/06.html#读多写少
 * 一个 Go 的项目教程 https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
 * 《Go 语言设计哲学》https://golang3.eddycjy.com/posts/objects/
