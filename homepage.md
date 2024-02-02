@@ -11,6 +11,8 @@
 * 书格 https://www.shuge.org/collection/photographs/
 * 计算机的主要算法 https://qph.cf2.quoracdn.net/main-qimg-b9e16a4ae244aa60fb67b5f5323a9c65-c
 * PWD https://developer.mozilla.org/zh-CN/docs/Web/Progressive_web_apps/Guides/Offline_and_background_operation
+* 《准备充分了嘛就想学函数式编程？》https://github.com/xitu/gold-miner/blob/master/TODO/so-you-want-to-be-a-functional-programmer-part-1.md
+* 《函数式编程 入门指南》https://rualc.me/cs/introduction-to-functional-programming/#intro
   
 
 ## 每天用到
