@@ -13,6 +13,7 @@
 * PWD https://developer.mozilla.org/zh-CN/docs/Web/Progressive_web_apps/Guides/Offline_and_background_operation
 * 《准备充分了嘛就想学函数式编程？》https://github.com/xitu/gold-miner/blob/master/TODO/so-you-want-to-be-a-functional-programmer-part-1.md
 * 《函数式编程 入门指南》https://rualc.me/cs/introduction-to-functional-programming/#intro
+* 《函数式编程指北》https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/
   
 
 ## 每天用到
