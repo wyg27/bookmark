@@ -18,6 +18,7 @@
 
 ## 每天用到
 
+* 微软语音 https://speech.microsoft.com/
 * https://www.netlify.com
 * AI 写作 https://type.ai
 * 生成 HTML 列表 https://www.textfixer.com/html/html-list-generator.php
