@@ -18,6 +18,7 @@
 
 ## 每天用到
 
+* （待评估）基于 AI，能够保持文档结构的翻译工具 https://officetranslator.com/examples
 * 微软语音 https://speech.microsoft.com/
 * https://www.netlify.com
 * AI 写作 https://type.ai
