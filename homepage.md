@@ -1,3 +1,20 @@
+## 每天用到
+
+* （待评估）基于 AI，能够保持文档结构的翻译工具 https://officetranslator.com/examples
+* 微软语音 https://speech.microsoft.com/
+* https://www.netlify.com
+* 生成 HTML 列表 https://www.textfixer.com/html/html-list-generator.php
+* HTML 清理 https://www.htmlwasher.com
+* HTML formatter https://www.freeformatter.com/html-formatter.html
+* Markdown to HTML https://markdowntohtml.com
+* PDF to HTML https://xodo.com/convert-pdf-to-html
+* 简繁转换 https://github.com/BYVoid/OpenCC
+* AI 图库（全免费，无版权，网友分享）https://unrealimages.com/categories
+* YouTube 语音转换为文本 https://huggingface.co/spaces/sanchit-gandhi/whisper-jax （支持中文）
+* AI 作图 https://visualelectric.com
+* AI YouTube 视频模版 https://pictory.ai
+* AI YouTube 关键字优化 https://vidiq.com
+
 ## 尽快阅读和整理
 
 * 在 Laravel 中不一定需要用 Repository，参考开源论坛 https://github.com/summerblue/news.laravel-china.org/tree/master
@@ -14,25 +31,6 @@
 * 《准备充分了嘛就想学函数式编程？》https://github.com/xitu/gold-miner/blob/master/TODO/so-you-want-to-be-a-functional-programmer-part-1.md
 * 《函数式编程 入门指南》https://rualc.me/cs/introduction-to-functional-programming/#intro
 * 《函数式编程指北》https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/
-  
-
-## 每天用到
-
-* （待评估）基于 AI，能够保持文档结构的翻译工具 https://officetranslator.com/examples
-* 微软语音 https://speech.microsoft.com/
-* https://www.netlify.com
-* AI 写作 https://type.ai
-* 生成 HTML 列表 https://www.textfixer.com/html/html-list-generator.php
-* HTML 清理 https://www.htmlwasher.com
-* HTML formatter https://www.freeformatter.com/html-formatter.html
-* Markdown to HTML https://markdowntohtml.com
-* PDF to HTML https://xodo.com/convert-pdf-to-html
-* 简繁转换 https://github.com/BYVoid/OpenCC
-* AI 图库（全免费，无版权，网友分享）https://unrealimages.com/categories
-* YouTube 语音转换为文本 https://huggingface.co/spaces/sanchit-gandhi/whisper-jax （支持中文）
-* AI 作图 https://visualelectric.com
-* AI YouTube 视频模版 https://pictory.ai
-* AI YouTube 关键字优化 https://vidiq.com
 
 ## 自学进程
 
